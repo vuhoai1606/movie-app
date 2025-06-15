@@ -248,17 +248,19 @@ body{
 
 /* Mỗi card phim */
 .cards {
-  background-color: #171B27;
-  border-radius: 8px;
-  overflow: hidden;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  cursor: pointer;
-  display: flex;
-  flex-direction: column;
+    width: 200px;
+    height: 310px;
+    background-color: #171B27;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
 }
 .cards:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 20px rgba(222, 93, 131, 0.3);
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(222, 93, 131, 0.3);
 }
 .cards:hover .card-title h3{
     color: var(--pink);
@@ -266,23 +268,23 @@ body{
 
 /* Hình ảnh phim */
 .card-img img {
-  width: 100%;
-  height: 230px;
-  object-fit: cover;
-  display: block;
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    display: block;
 }
 
 /* Tiêu đề phim */
 .card-title {
-  text-align: center;
-  padding: 0.7rem 0.5rem;
-  background-color: transparent;
+    text-align: center;
+    padding: 0.7rem 0.5rem;
+    background-color: transparent;
 }
 .card-title h3 {
-  color: #fff;
-  font-size: 0.9rem;
-  font-weight: 500;
-  margin-bottom: 0.3rem;
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-bottom: 0.3rem;
 }
 
 

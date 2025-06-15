@@ -1,0 +1,140 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2024-02-15T02:50:50.000Z"
+    },
+    "modified": {
+      "time": "2024-03-01T13:12:21.000Z"
+    },
+    "_id": "f4cc4b9bf4dc2237cb88718132e9fb7c",
+    "name": "Wednesday",
+    "slug": "wednesday",
+    "origin_name": "Wednesday",
+    "content": "Thông minh, hay châm chọc và chết trong lòng một chút, Wednesday Addams điều tra một vụ giết người liên hoàn trong khi có thêm bạn và cả kẻ thù mới ở Học viện Nevermore.",
+    "type": "series",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20240215-1/8f5e63e484fab0433cc61f783817bb30.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20240215-1/ea10b891c1351d8fd819a8de2f36b483.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "",
+    "time": "45 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "episode_total": "8",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2022,
+    "view": 1,
+    "actor": [
+      "Jenna Ortega",
+      " Gwendoline Christie",
+      " Riki Lindhome",
+      " Christina Ricci",
+      " Jamie McShane",
+      " Hunter Doohan",
+      " Percy Hynes White",
+      " Emma Myers",
+      " Joy Sunday",
+      " Moosa Mostafa",
+      " Georgie Farmer",
+      " Naomi J. Ogawa",
+      " Catherine Zeta-Jones",
+      " Luis Guzmán"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
+    "category": [
+      {
+        "id": "2fb53017b3be83cd754a08adab3e916c",
+        "name": "Bí Ẩn",
+        "slug": "bi-an"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Wednesday - Wednesday - 2022 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240222/F61s8JgL/index.m3u8",
+          "link_m3u8": "https://s1.phim1280.tv/20240222/F61s8JgL/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Wednesday - Wednesday - 2022 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240222/oq5prKvC/index.m3u8",
+          "link_m3u8": "https://s1.phim1280.tv/20240222/oq5prKvC/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Wednesday - Wednesday - 2022 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240222/7aGMozaA/index.m3u8",
+          "link_m3u8": "https://s1.phim1280.tv/20240222/7aGMozaA/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Wednesday - Wednesday - 2022 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240222/5fsJTORZ/index.m3u8",
+          "link_m3u8": "https://s1.phim1280.tv/20240222/5fsJTORZ/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Wednesday - Wednesday - 2022 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240222/uxbvd3Nx/index.m3u8",
+          "link_m3u8": "https://s1.phim1280.tv/20240222/uxbvd3Nx/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Wednesday - Wednesday - 2022 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240222/sGLgL6XL/index.m3u8",
+          "link_m3u8": "https://s1.phim1280.tv/20240222/sGLgL6XL/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Wednesday - Wednesday - 2022 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240222/X4IGvIWM/index.m3u8",
+          "link_m3u8": "https://s1.phim1280.tv/20240222/X4IGvIWM/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Wednesday - Wednesday - 2022 - 1080p - Vietsub - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20240222/l1oWq2kr/index.m3u8",
+          "link_m3u8": "https://s1.phim1280.tv/20240222/l1oWq2kr/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

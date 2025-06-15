@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2023-09-18T15:04:29.000Z"
+    },
+    "modified": {
+      "time": "2023-09-18T20:40:00.000Z"
+    },
+    "_id": "cfa0860e83a4c3a763a7e62d825349f7",
+    "name": "Trận Chiến Ở Narvik",
+    "slug": "tran-chien-o-narvik",
+    "origin_name": "Narvik",
+    "content": "\u003Cspan style=\"font-family: \"\u003ETrong bối cảnh trận chiến Thế chiến II được coi là thất bại đầu tiên của Hitler, một người lính Na Uy trở về nhà và biết được sự thật động trời về vợ mình.\u003C/span\u003E",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20230918-1/dcba7fb290bdfb5da992c6496ba049c9.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20230918-1/b09bfc0b4e1f9533e124b78964b70a40.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "",
+    "time": "108 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2022,
+    "view": 5,
+    "actor": [
+      "Kristine Cornelie M. Hartgen",
+      "Carl Martin Eggesbø",
+      "Christoph Gelfert Mathiesen",
+      "Henrik Mestad",
+      "Mathilde Holtedahl Cuhra",
+      "Stig Henrik Hoff",
+      "Kari Bremnes",
+      "Christoph Bach",
+      "Billy Campbell",
+      "Holger Handtke"
+    ],
+    "director": [
+      "Erik Skjoldbjærg"
+    ],
+    "category": [
+      {
+        "id": "1bae5183d681b7649f9bf349177f7123",
+        "name": "Chiến Tranh",
+        "slug": "chien-tranh"
+      },
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      }
+    ],
+    "country": [
+      {
+        "id": "638f494a6d33cf5760f6e95c8beb612a",
+        "name": "Na Uy",
+        "slug": "na-uy"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Trận Chiến Ở Narvik - Narvik - 2022 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20230918/QxnlGUbT/index.m3u8",
+          "link_m3u8": "https://s2.phim1280.tv/20230918/QxnlGUbT/index.m3u8"
+        }
+      ]
+    }
+  ]
+}
