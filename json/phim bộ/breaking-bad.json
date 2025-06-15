@@ -1,0 +1,139 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2023-10-06T14:20:43.000Z"
+    },
+    "modified": {
+      "time": "2023-10-06T22:58:42.000Z"
+    },
+    "_id": "b24d516bb65a5a58079f0f3526c87c57",
+    "name": "Tập làm người xấu (Phần 1)",
+    "slug": "tap-lam-nguoi-xau-phan-1",
+    "origin_name": "Breaking Bad (Season 1)",
+    "content": "Một giáo viên dạy hóa ở trường trung học mắc bệnh ung thư bắt tay với một cựu học sinh để bảo vệ tương lai của gia đình bằng cách sản xuất và bán ma túy đá.",
+    "type": "series",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20231006-1/ccc6cb4b5bef00d2289a95397465893b.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20231006-1/5dbbc14cf454238c216dcf3f72426a6c.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "",
+    "time": "58 phút/tập",
+    "episode_current": "Hoàn Tất (7/7)",
+    "episode_total": "7",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2008,
+    "view": 1,
+    "actor": [
+      "Bryan Cranston",
+      "Aaron Paul",
+      "Anna Gunn",
+      "Dean Norris",
+      "Betsy Brandt",
+      "RJ Mitte",
+      "Bob Odenkirk",
+      "Steven Michael Quezada",
+      "Jonathan Banks",
+      "Giancarlo Esposito"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
+    "category": [
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "af5c50bf625c1da71838678a5cf37189",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 1",
+          "slug": "tap-1",
+          "filename": "Tập làm người xấu (Phần 1) - Breaking Bad (Season 1) - 2008 - 1080p - Vietsub - Tập 1",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231006/GpY77qdx/index.m3u8",
+          "link_m3u8": "https://s2.phim1280.tv/20231006/GpY77qdx/index.m3u8"
+        },
+        {
+          "name": "Tập 2",
+          "slug": "tap-2",
+          "filename": "Tập làm người xấu (Phần 1) - Breaking Bad (Season 1) - 2008 - 1080p - Vietsub - Tập 2",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231006/QUH2c3BD/index.m3u8",
+          "link_m3u8": "https://s2.phim1280.tv/20231006/QUH2c3BD/index.m3u8"
+        },
+        {
+          "name": "Tập 3",
+          "slug": "tap-3",
+          "filename": "Tập làm người xấu (Phần 1) - Breaking Bad (Season 1) - 2008 - 1080p - Vietsub - Tập 3",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231006/f7wRqXMw/index.m3u8",
+          "link_m3u8": "https://s2.phim1280.tv/20231006/f7wRqXMw/index.m3u8"
+        },
+        {
+          "name": "Tập 4",
+          "slug": "tap-4",
+          "filename": "Tập làm người xấu (Phần 1) - Breaking Bad (Season 1) - 2008 - 1080p - Vietsub - Tập 4",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231006/t6ZS06TF/index.m3u8",
+          "link_m3u8": "https://s2.phim1280.tv/20231006/t6ZS06TF/index.m3u8"
+        },
+        {
+          "name": "Tập 5",
+          "slug": "tap-5",
+          "filename": "Tập làm người xấu (Phần 1) - Breaking Bad (Season 1) - 2008 - 1080p - Vietsub - Tập 5",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231006/eMpYm89G/index.m3u8",
+          "link_m3u8": "https://s2.phim1280.tv/20231006/eMpYm89G/index.m3u8"
+        },
+        {
+          "name": "Tập 6",
+          "slug": "tap-6",
+          "filename": "Tập làm người xấu (Phần 1) - Breaking Bad (Season 1) - 2008 - 1080p - Vietsub - Tập 6",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231006/3rYrYToD/index.m3u8",
+          "link_m3u8": "https://s2.phim1280.tv/20231006/3rYrYToD/index.m3u8"
+        },
+        {
+          "name": "Tập 7",
+          "slug": "tap-7",
+          "filename": "Tập làm người xấu (Phần 1) - Breaking Bad (Season 1) - 2008 - 1080p - Vietsub - Tập 7",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231006/CeTng4Wp/index.m3u8",
+          "link_m3u8": "https://s2.phim1280.tv/20231006/CeTng4Wp/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

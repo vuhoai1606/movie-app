@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "1426776",
+      "season": null,
+      "vote_average": 7.071,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-06-07T08:31:51.000Z"
+    },
+    "modified": {
+      "time": "2025-06-07T08:31:51.000Z"
+    },
+    "_id": "0ab3906a724cfe5ba8b36e7c25d33491",
+    "name": "Giọt Nước Tràn Ly",
+    "slug": "giot-nuoc-tran-ly",
+    "origin_name": "STRAW",
+    "content": "Trong phim giật gân lắt léo này của Tyler Perry, một vụ cướp ngân hàng không giống như bề ngoài hé lộ một người mẹ đau khổ tìm được sự ủng hộ bất ngờ giữa cuộc đối đầu có vũ trang.",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250607-1/66ce06290b9cb75fca0ae1a3d2410a6a.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250607-1/4539b548fddb41556d7e133d916cb0b7.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=k1vWhii4tkE",
+    "time": "105 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Taraji P. Henson",
+      "Sherri Shepherd",
+      "Teyana Taylor",
+      "Sinbad",
+      "Rockmond Dunbar",
+      "Ashley Versher",
+      "Mike Merrill",
+      "Glynn Turman"
+    ],
+    "director": [
+      "Tyler Perry"
+    ],
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Giọt Nước Tràn Ly - STRAW - 2025 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/D8HJ819L/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/D8HJ819L/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

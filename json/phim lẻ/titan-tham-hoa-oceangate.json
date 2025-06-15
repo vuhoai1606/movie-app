@@ -1,0 +1,84 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "1426306",
+      "season": null,
+      "vote_average": 7.25,
+      "vote_count": 22
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-06-13T07:22:31.000Z"
+    },
+    "modified": {
+      "time": "2025-06-13T07:22:31.000Z"
+    },
+    "_id": "f838653dadc0732215222a1e0fd8190f",
+    "name": "Titan: Thảm họa OceanGate",
+    "slug": "titan-tham-hoa-oceangate",
+    "origin_name": "Titan: The OceanGate Submersible Disaster",
+    "content": "Tàu lặn du lịch Titan của OceanGate bị nổ tung năm 2023 trong chuyến lặn sâu thám hiểm tàu Titanic. Bộ phim tài liệu này thuật lại cách một tầm nhìn táo bạo kết thúc trong bi kịch.",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250613-1/1682406669c4a477a7a378035c4c306d.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250613-1/66ec9184b07826af18d14f9d05adb562.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=CplcmrxZMyo",
+    "time": "111 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Stockton Rush",
+      "Paul-Henri Nargeolet"
+    ],
+    "director": [
+      "Mark Monroe"
+    ],
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      },
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Titan: Thảm họa OceanGate - Titan: The OceanGate Submersible Disaster - 2025 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250612/Wgv9Fylx/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250612/Wgv9Fylx/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

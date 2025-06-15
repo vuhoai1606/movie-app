@@ -1,0 +1,150 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2024-03-09T00:07:59.000Z"
+    },
+    "modified": {
+      "time": "2025-04-14T20:32:37.000Z"
+    },
+    "_id": "c1efb218329e5aba0896676f9f3b994f",
+    "name": "Những Người Còn Sót Lại (Phần 1)",
+    "slug": "nhung-nguoi-con-sot-lai-phan-1",
+    "origin_name": "The Last Of Us (Season 1)",
+    "content": "Hai mươi năm sau khi nền văn minh hiện đại bị hủy diệt. Joel, một người sống sót cứng cỏi, được thuê để đưa Ellie, một bé gái 14 tuổi, ra khỏi khu cách ly đầy áp bức. Khởi đầu là một công việc nhỏ nhanh chóng trở thành một hành trình tàn khốc, đau lòng, khi cả hai phải băng qua nước Mỹ và phụ thuộc vào nhau để sinh tồn.",
+    "type": "series",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20240309-1/9d3c0aa43547c8e125758450ee2a3dc9.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20240309-1/76ee98a4ac0676c69e2b75d2b264bcaf.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=uLtkt8BonwM",
+    "time": "60 phút/tập",
+    "episode_current": "Hoàn Tất (9/9)",
+    "episode_total": "9",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2023,
+    "view": 0,
+    "actor": [
+      "Pedro Pascal",
+      "Bella Ramsey",
+      "Gabriel Luna",
+      "Merle Dandridge",
+      "Jeffrey Pierce",
+      "Anna Torv"
+    ],
+    "director": [
+      "Ali Abbasi",
+      "Jeremy Webb"
+    ],
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Những Người Còn Sót Lại (Phần 1) - The Last Of Us (Season 1) - 2023 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240316/OMamE7rk/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240316/OMamE7rk/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Những Người Còn Sót Lại (Phần 1) - The Last Of Us (Season 1) - 2023 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240316/0Xdw2T1L/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240316/0Xdw2T1L/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Những Người Còn Sót Lại (Phần 1) - The Last Of Us (Season 1) - 2023 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240316/Wrxdmnxl/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240316/Wrxdmnxl/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Những Người Còn Sót Lại (Phần 1) - The Last Of Us (Season 1) - 2023 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240316/aIyghbnH/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240316/aIyghbnH/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Những Người Còn Sót Lại (Phần 1) - The Last Of Us (Season 1) - 2023 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240316/CvGl8yIa/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240316/CvGl8yIa/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Những Người Còn Sót Lại (Phần 1) - The Last Of Us (Season 1) - 2023 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240316/RH2JD4Di/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240316/RH2JD4Di/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Những Người Còn Sót Lại (Phần 1) - The Last Of Us (Season 1) - 2023 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240316/CjzEI0A3/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240316/CjzEI0A3/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Những Người Còn Sót Lại (Phần 1) - The Last Of Us (Season 1) - 2023 - 1080p - Vietsub - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240316/O1Dhyozm/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240316/O1Dhyozm/index.m3u8"
+        },
+        {
+          "name": "Tập 09",
+          "slug": "tap-09",
+          "filename": "Những Người Còn Sót Lại (Phần 1) - The Last Of Us (Season 1) - 2023 - 1080p - Vietsub - Tập 09",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240316/LwawCeQE/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240316/LwawCeQE/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

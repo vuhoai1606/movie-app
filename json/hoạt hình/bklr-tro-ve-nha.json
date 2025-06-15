@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2023-10-26T03:00:14.000Z"
+    },
+    "modified": {
+      "time": "2023-10-30T14:34:13.000Z"
+    },
+    "_id": "9e82757e9a1c12cb710ad680db11f6f1",
+    "name": "Bí Kíp Luyện Rồng: Trở Về Nhà",
+    "slug": "bi-kip-luyen-rong-tro-ve-nha",
+    "origin_name": "How to Train Your Dragon: Homecoming",
+    "content": "Đã mười năm kể từ khi những con rồng chuyển đến Thế giới ẩn, và mặc dù Toothless không sống ở New Berk nữa, Hiccup vẫn tiếp tục truyền thống kỳ nghỉ mà anh từng chia sẻ với người bạn thân nhất của mình. Nhưng những người Viking ở New Berk đã bắt đầu quên đi tình bạn của họ với rồng. Hiccup, Astrid và Gobber không biết phải làm gì để giữ những con rồng trong lòng dân làng. Và trên biển, những con rồng có một kế hoạch của riêng mình ...",
+    "type": "hoathinh",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20231026-1/73d6db35a95524438bb32d20a46cd05c.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20231026-1/b1355a8a9abf942d99da32f640f529ca.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "",
+    "time": "22 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2019,
+    "view": 1,
+    "actor": [
+      "Jay Baruchel",
+      "America Ferrera",
+      "Gerard Butler",
+      "Craig Ferguson",
+      "Christopher Mintz-Plasse"
+    ],
+    "director": [
+      "Tim Johnson"
+    ],
+    "category": [
+      {
+        "id": "d9983d88d8929b1d9f767884e2999e27",
+        "name": "Hoạt Hình",
+        "slug": "hoat-hinh"
+      },
+      {
+        "id": "97e7ed4c52ce3737e18bdf0bd1331ce8",
+        "name": "Giả Tượng",
+        "slug": "gia-tuong"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      },
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Bí Kíp Luyện Rồng: Trở Về Nhà - How to Train Your Dragon: Homecoming - 2019 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20231027/sAPD006D/index.m3u8",
+          "link_m3u8": "https://s1.phim1280.tv/20231027/sAPD006D/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

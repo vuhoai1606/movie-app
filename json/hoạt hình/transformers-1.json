@@ -1,0 +1,137 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "698687",
+      "season": null,
+      "vote_average": 7.488,
+      "vote_count": 171
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2024-10-23T10:53:05.000Z"
+    },
+    "modified": {
+      "time": "2025-06-09T02:11:45.000Z"
+    },
+    "_id": "3829a518596ae2a37b09a417753e5328",
+    "name": "Transformers Một",
+    "slug": "transformers-mot",
+    "origin_name": "Transformers One",
+    "content": "Câu chuyện về nguồn gốc chưa từng được hé lộ của Optimus Prime và Megatron. Hai nhân vật được biết đến như những kẻ thù truyền kiếp, nhưng cũng từng là những người anh em gắn bó, đã thay đổi vận mệnh của Cybertron mãi mãi.",
+    "type": "hoathinh",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20241023-1/1de94926463b4d655c00f353227f172d.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250608-1/8ad99813947387315f5097afcbfd3850.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": true,
+    "trailer_url": "https://www.youtube.com/watch?v=0rmJXXKDrsM",
+    "time": "104 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "FHD",
+    "lang": "Vietsub + Lồng Tiếng + Thuyết Minh",
+    "notify": "",
+    "showtimes": "",
+    "year": 2024,
+    "view": 0,
+    "actor": [
+      "Chris Hemsworth",
+      "Brian Tyree Henry",
+      "Scarlett Johansson",
+      "Keegan-Michael Key",
+      "Steve Buscemi",
+      "Laurence Fishburne",
+      "Jon Hamm",
+      "Vanessa Liguori",
+      "Jon Bailey",
+      "Jason Konopisos-Alvarez",
+      "Evan Michael Lee",
+      "James Remar",
+      "Isaac C. Singleton Jr.",
+      "Steve Blum",
+      "Jinny Chung",
+      ""
+    ],
+    "director": [
+      "Josh Cooley"
+    ],
+    "category": [
+      {
+        "id": "0bcf4077916678de9b48c89221fcf8ae",
+        "name": "Khoa Học",
+        "slug": "khoa-hoc"
+      },
+      {
+        "id": "68564911f00849030f9c9c144ea1b931",
+        "name": "Viễn Tưởng",
+        "slug": "vien-tuong"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Transformers Một - Transformers One - 2024 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250608/1UAuUgDJ/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250608/1UAuUgDJ/index.m3u8"
+        }
+      ]
+    },
+    {
+      "server_name": "#Hà Nội (Lồng Tiếng)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Transformers Một - Transformers One - 2024 - 1080p - Lồng Tiếng - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250608/d2HLb6fv/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250608/d2HLb6fv/index.m3u8"
+        }
+      ]
+    },
+    {
+      "server_name": "#Hà Nội (Thuyết Minh)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Transformers Một - Transformers One - 2024 - 1080p - Thuyết Minh - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250609/A107Ul4K/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250609/A107Ul4K/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

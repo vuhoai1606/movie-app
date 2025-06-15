@@ -1,0 +1,149 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "tv",
+      "id": "273174",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-05-05T13:18:23.000Z"
+    },
+    "modified": {
+      "time": "2025-06-15T12:27:33.000Z"
+    },
+    "_id": "5f22e82f3d2c279d57c76a0513276abb",
+    "name": "Chàng Trai Băng Cốc",
+    "slug": "chang-trai-bang-coc",
+    "origin_name": "The Bangkokboy Series (Uncut Ver.)",
+    "content": "Sun mãn hạn tù, mang theo lòng căm hận ngút trời đối với kẻ thù đã giết cha và bạn mình. Tại Bangkok, anh thành lập một tổ chức tên là &quot;Thiếu Niên Bangkok&quot;, vừa mở rộng thế lực, vừa tích cực tìm kiếm manh mối về kẻ thù năm xưa.",
+    "type": "series",
+    "status": "ongoing",
+    "poster_url": "https://phimimg.com/upload/vod/20250505-1/7e3f6bdf49ad444f5efd620f1795da6b.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250505-1/6e9dbf70735842c04abd88688f8213f3.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=kL-iD2kf7zI",
+    "time": "57 phút/tập",
+    "episode_current": "Tập 8",
+    "episode_total": "12",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Worrachai Sirikongsuwan",
+      "Cho Sihyun",
+      "Choi Seung-ho",
+      "Top Piyawat Phongkanittanon",
+      "Aton Thanakorn Techawicha",
+      "Dom Petchtamrongchai",
+      "Praphoom Vasuratna",
+      "Paythai Ploymeeka",
+      "Jinjutha Siripheng",
+      "Truly Phuntipa Pongruangrong",
+      "Khongkhwan Woraphat",
+      "Mai Bodinphat",
+      ""
+    ],
+    "director": [
+      "Chankacha Prathuan"
+    ],
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "cefbf1640a17bad1e13c2f6f2a811a2d",
+        "name": "Thái Lan",
+        "slug": "thai-lan"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Chàng Trai Băng Cốc - The Bangkokboy Series (Uncut Ver.) - 2025 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250505/bkFX7Wgr/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250505/bkFX7Wgr/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Chàng Trai Băng Cốc - The Bangkokboy Series (Uncut Ver.) - 2025 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250505/hbxCgQS8/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250505/hbxCgQS8/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Chàng Trai Băng Cốc - The Bangkokboy Series (Uncut Ver.) - 2025 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250511/NUWq0Lr3/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250511/NUWq0Lr3/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Chàng Trai Băng Cốc - The Bangkokboy Series (Uncut Ver.) - 2025 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250519/ArxWGAPP/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250519/ArxWGAPP/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Chàng Trai Băng Cốc - The Bangkokboy Series (Uncut Ver.) - 2025 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250525/3sQdyoA8/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250525/3sQdyoA8/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Chàng Trai Băng Cốc - The Bangkokboy Series (Uncut Ver.) - 2025 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250603/McuDkql0/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250603/McuDkql0/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Chàng Trai Băng Cốc - The Bangkokboy Series (Uncut Ver.) - 2025 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250608/Yow8zQWd/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250608/Yow8zQWd/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Chàng Trai Băng Cốc - The Bangkokboy Series (Uncut Ver.) - 2025 - 1080p - Vietsub - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250615/oyfENf6z/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250615/oyfENf6z/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

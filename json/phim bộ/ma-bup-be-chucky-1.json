@@ -1,0 +1,151 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "tv",
+      "id": "90462",
+      "season": 3,
+      "vote_average": 7.84,
+      "vote_count": 4084
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-05-15T04:24:33.000Z"
+    },
+    "modified": {
+      "time": "2025-06-08T15:46:47.000Z"
+    },
+    "_id": "28144c5d22c74864cee1b3eedbce3c85",
+    "name": "Ma Búp Bê Chucky (Phần 1)",
+    "slug": "ma-bup-be-chucky-phan-1",
+    "origin_name": "Chucky (Season 1)",
+    "content": "Sau khi một búp bê Chucky cổ bất ngờ xuất hiện tại một buổi bán đồ sân vườn ở vùng ngoại ô, một thị trấn yên bình kiểu Mỹ nhanh chóng rơi vào hỗn loạn. Hàng loạt vụ án mạng kinh hoàng diễn ra, dần vạch trần những giả dối và bí mật thầm kín mà thị trấn tưởng chừng hoàn hảo này đang che giấu. Trong lúc đó, những kẻ thù và đồng minh từ quá khứ của Chucky lần lượt xuất hiện, đe dọa phơi bày sự thật đằng sau những vụ giết người — và cả nguồn gốc đen tối chưa từng được tiết lộ của con búp bê quỷ ám này.",
+    "type": "series",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250515-1/1cae9587a95c879fd74b1206938d7cab.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250515-1/b9361acb71a99a68753124b8154e5560.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=oBNH-PY730k",
+    "time": "43 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "episode_total": "8",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2021,
+    "view": 0,
+    "actor": [
+      "Zackary Arthur",
+      "Brad Dourif",
+      "Björgvin Arnarson",
+      "Alyvia Alyn Lind",
+      "Devon Sawa"
+    ],
+    "director": [
+      "Don Mancini"
+    ],
+    "category": [
+      {
+        "id": "7a035ac0b37f5854f0f6979260899c90",
+        "name": "Hình Sự",
+        "slug": "hinh-su"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      },
+      {
+        "id": "2fb53017b3be83cd754a08adab3e916c",
+        "name": "Bí Ẩn",
+        "slug": "bi-an"
+      },
+      {
+        "id": "4db8d7d4b9873981e3eeb76d02997d58",
+        "name": "Kinh Dị",
+        "slug": "kinh-di"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Ma Búp Bê Chucky (Phần 1) - Chucky (Season 1) - 2021 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250515/MLRhJzWH/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250515/MLRhJzWH/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Ma Búp Bê Chucky (Phần 1) - Chucky (Season 1) - 2021 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250515/Ilffo24T/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250515/Ilffo24T/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Ma Búp Bê Chucky (Phần 1) - Chucky (Season 1) - 2021 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250515/LbcExXWf/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250515/LbcExXWf/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Ma Búp Bê Chucky (Phần 1) - Chucky (Season 1) - 2021 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250515/3Td9FqRG/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250515/3Td9FqRG/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Ma Búp Bê Chucky (Phần 1) - Chucky (Season 1) - 2021 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250515/uenxbZFZ/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250515/uenxbZFZ/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Ma Búp Bê Chucky (Phần 1) - Chucky (Season 1) - 2021 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250515/e0oRM7fY/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250515/e0oRM7fY/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Ma Búp Bê Chucky (Phần 1) - Chucky (Season 1) - 2021 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250515/ugLNXhAJ/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250515/ugLNXhAJ/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Ma Búp Bê Chucky (Phần 1) - Chucky (Season 1) - 2021 - 1080p - Vietsub - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250515/D20TVZuX/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250515/D20TVZuX/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

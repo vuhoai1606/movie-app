@@ -1,0 +1,326 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-01-08T19:05:36.000Z"
+    },
+    "modified": {
+      "time": "2025-06-10T00:42:13.000Z"
+    },
+    "_id": "3f3267d02dea7f94781bd5a437733db3",
+    "name": "Doraemon: Tuyển tập mới nhất",
+    "slug": "doraemon-tuyen-tap-moi-nhat",
+    "origin_name": "Doraemon: New Series",
+    "content": "Tuyển tập phim hoạt hình Doraemon New Series được nhóm dịch Mon Fansub thực hiện.",
+    "type": "hoathinh",
+    "status": "ongoing",
+    "poster_url": "https://phimimg.com/upload/vod/20250108-1/2eea374f015f589cb6565f2e91be0347.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250108-1/008f74495954be77b6495b44c98ce6b4.png",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "",
+    "time": "21 phút/tập",
+    "episode_current": "Tập 866",
+    "episode_total": "0",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Đang cập nhật"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
+    "category": [
+      {
+        "id": "0c853f6238e0997ee318b646bb1978bc",
+        "name": "Trẻ Em",
+        "slug": "tre-em"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "d4097fbffa8f7149a61281437171eb83",
+        "name": "Nhật Bản",
+        "slug": "nhat-ban"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 160",
+          "slug": "tap-160",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 160",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/RMahnuWi/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/RMahnuWi/index.m3u8"
+        },
+        {
+          "name": "Tập 247",
+          "slug": "tap-247",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 247",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/uG4l08P8/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/uG4l08P8/index.m3u8"
+        },
+        {
+          "name": "Tập 601",
+          "slug": "tap-601",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 601",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/1aFwwt6g/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/1aFwwt6g/index.m3u8"
+        },
+        {
+          "name": "Tập 602",
+          "slug": "tap-602",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 602",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/TypZdKy6/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/TypZdKy6/index.m3u8"
+        },
+        {
+          "name": "Tập 603",
+          "slug": "tap-603",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 603",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/F1WSzGJB/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/F1WSzGJB/index.m3u8"
+        },
+        {
+          "name": "Tập 604",
+          "slug": "tap-604",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 604",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/J0T6QiGA/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/J0T6QiGA/index.m3u8"
+        },
+        {
+          "name": "Tập 605",
+          "slug": "tap-605",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 605",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/2bbHqZTb/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/2bbHqZTb/index.m3u8"
+        },
+        {
+          "name": "Tập 606",
+          "slug": "tap-606",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 606",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/VreNiv9D/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/VreNiv9D/index.m3u8"
+        },
+        {
+          "name": "Tập 607",
+          "slug": "tap-607",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 607",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/6jypIt87/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/6jypIt87/index.m3u8"
+        },
+        {
+          "name": "Tập 609",
+          "slug": "tap-609",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 609",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/6tG0etWY/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/6tG0etWY/index.m3u8"
+        },
+        {
+          "name": "Tập 842",
+          "slug": "tap-842",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 842",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/R9CSsudR/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/R9CSsudR/index.m3u8"
+        },
+        {
+          "name": "Tập 843",
+          "slug": "tap-843",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 843",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/uCb9tvQR/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/uCb9tvQR/index.m3u8"
+        },
+        {
+          "name": "Tập 844",
+          "slug": "tap-844",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 844",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250108/7s28uKCM/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250108/7s28uKCM/index.m3u8"
+        },
+        {
+          "name": "Tập 845",
+          "slug": "tap-845",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 845",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250113/JWTWvlCl/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250113/JWTWvlCl/index.m3u8"
+        },
+        {
+          "name": "Tập 846",
+          "slug": "tap-846",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 846",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250119/YvoG9p1x/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250119/YvoG9p1x/index.m3u8"
+        },
+        {
+          "name": "Tập 847",
+          "slug": "tap-847",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 847",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250127/yoJKX09S/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250127/yoJKX09S/index.m3u8"
+        },
+        {
+          "name": "Tập 848",
+          "slug": "tap-848",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 848",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250415/2U9AOoq1/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250415/2U9AOoq1/index.m3u8"
+        },
+        {
+          "name": "Tập 849",
+          "slug": "tap-849",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 849",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250415/k5W2qyRZ/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250415/k5W2qyRZ/index.m3u8"
+        },
+        {
+          "name": "Tập 850",
+          "slug": "tap-850",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 850",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250415/SpTAFRN3/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250415/SpTAFRN3/index.m3u8"
+        },
+        {
+          "name": "Tập 851",
+          "slug": "tap-851",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 851",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250415/wV99pp6y/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250415/wV99pp6y/index.m3u8"
+        },
+        {
+          "name": "Tập 852",
+          "slug": "tap-852",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 852",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250415/GDHHvH9g/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250415/GDHHvH9g/index.m3u8"
+        },
+        {
+          "name": "Tập 853",
+          "slug": "tap-853",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 853",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250415/GUYLo1Wy/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250415/GUYLo1Wy/index.m3u8"
+        },
+        {
+          "name": "Tập 854",
+          "slug": "tap-854",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 854",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250415/JITNXV21/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250415/JITNXV21/index.m3u8"
+        },
+        {
+          "name": "Tập 855",
+          "slug": "tap-855",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 855",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250415/hGotR5dS/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250415/hGotR5dS/index.m3u8"
+        },
+        {
+          "name": "Tập 856",
+          "slug": "tap-856",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 856",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250415/mW0OPYg2/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250415/mW0OPYg2/index.m3u8"
+        },
+        {
+          "name": "Tập 857",
+          "slug": "tap-857",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 857",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250415/j2MXnVKe/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250415/j2MXnVKe/index.m3u8"
+        },
+        {
+          "name": "Tập 858",
+          "slug": "tap-858",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 858",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250415/mKjw4DQE/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250415/mKjw4DQE/index.m3u8"
+        },
+        {
+          "name": "Tập 859",
+          "slug": "tap-859",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 859",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250420/GK1s4pTg/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250420/GK1s4pTg/index.m3u8"
+        },
+        {
+          "name": "Tập 860",
+          "slug": "tap-860",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 860",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250427/Hurre0XL/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250427/Hurre0XL/index.m3u8"
+        },
+        {
+          "name": "Tập 861",
+          "slug": "tap-861",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 861",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250504/NDAZHQP3/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250504/NDAZHQP3/index.m3u8"
+        },
+        {
+          "name": "Tập 862",
+          "slug": "tap-862",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 862",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250513/o6B1P1JB/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250513/o6B1P1JB/index.m3u8"
+        },
+        {
+          "name": "Tập 863",
+          "slug": "tap-863",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 863",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250524/dQut1UIZ/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250524/dQut1UIZ/index.m3u8"
+        },
+        {
+          "name": "Tập 864",
+          "slug": "tap-864",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 864",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250525/mIUwqTBv/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250525/mIUwqTBv/index.m3u8"
+        },
+        {
+          "name": "Tập 865",
+          "slug": "tap-865",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 865",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250604/GkLwew6E/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250604/GkLwew6E/index.m3u8"
+        },
+        {
+          "name": "Tập 866",
+          "slug": "tap-866",
+          "filename": "Doraemon: Tuyển tập mới nhất - Doraemon: New Series - 2025 - 1080p - Vietsub - Tập 866",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250610/bB7MJoF8/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250610/bB7MJoF8/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

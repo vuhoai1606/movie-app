@@ -1,0 +1,80 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2023-12-08T23:48:24.000Z"
+    },
+    "modified": {
+      "time": "2023-12-26T00:35:33.000Z"
+    },
+    "_id": "624567140fecc40163fed3c45a959a7c",
+    "name": "Bí Kíp Luyện Rồng 2",
+    "slug": "bi-kip-luyen-rong-2",
+    "origin_name": "How To Train Your Dragon 2",
+    "content": "How to Train Your Dragon 2",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20231209-1/0a93e97fdaa5123dab620f1e9404bd7d.jpg",
+    "thumb_url": "",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "",
+    "time": "102 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2014,
+    "view": 1,
+    "actor": [
+      "Jay Baruchel",
+      "Cate Blanchett",
+      "Gerard Butler"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Bí Kíp Luyện Rồng 2 - How To Train Your Dragon 2 - 2014 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231224/pWP2rLmD/index.m3u8",
+          "link_m3u8": "https://s2.phim1280.tv/20231224/pWP2rLmD/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

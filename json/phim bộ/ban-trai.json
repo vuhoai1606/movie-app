@@ -1,0 +1,155 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "tv",
+      "id": "256220",
+      "season": 1,
+      "vote_average": 8.4,
+      "vote_count": 13
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-05-23T09:59:44.000Z"
+    },
+    "modified": {
+      "time": "2025-05-23T09:59:44.000Z"
+    },
+    "_id": "e61f7911ee778def6a5aade05bbe9ca1",
+    "name": "Bạn Trai",
+    "slug": "ban-trai",
+    "origin_name": "The Boyfriend",
+    "content": "Các chàng trai đến ngôi nhà nhỏ ven biển rồi chia sẻ những ấn tượng đầu tiên. Khi tình cảm nảy sinh và một gương mặt mới khiến mọi chuyện nóng lên, một mùa hè khó quên bắt đầu.",
+    "type": "series",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250523-1/9fe008cd79bab3805dc1a138df8fe523.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250523-1/81f2924fe29a5d1bf54e5e21151e420c.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=VS2gv--0Pug",
+    "time": "53 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "episode_total": "10",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2024,
+    "view": 0,
+    "actor": [
+      "Megumi",
+      "Chiaki Horan",
+      "Thelma Aoyama",
+      "Durian Lollobrigida",
+      "Yoshimi Tokui"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "d4097fbffa8f7149a61281437171eb83",
+        "name": "Nhật Bản",
+        "slug": "nhat-ban"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Bạn Trai - The Boyfriend - 2024 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250522/tHenMU3J/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250522/tHenMU3J/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Bạn Trai - The Boyfriend - 2024 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250522/Au4Hrs7G/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250522/Au4Hrs7G/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Bạn Trai - The Boyfriend - 2024 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250522/lNIUx0Xh/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250522/lNIUx0Xh/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Bạn Trai - The Boyfriend - 2024 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250522/MSEWAY1E/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250522/MSEWAY1E/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Bạn Trai - The Boyfriend - 2024 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250522/dPG2Oas6/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250522/dPG2Oas6/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Bạn Trai - The Boyfriend - 2024 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250522/areRMu1G/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250522/areRMu1G/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Bạn Trai - The Boyfriend - 2024 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250522/d92byGUh/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250522/d92byGUh/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Bạn Trai - The Boyfriend - 2024 - 1080p - Vietsub - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250522/2gZpn3Zp/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250522/2gZpn3Zp/index.m3u8"
+        },
+        {
+          "name": "Tập 09",
+          "slug": "tap-09",
+          "filename": "Bạn Trai - The Boyfriend - 2024 - 1080p - Vietsub - Tập 09",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250522/1DHnZiff/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250522/1DHnZiff/index.m3u8"
+        },
+        {
+          "name": "Tập 10",
+          "slug": "tap-10",
+          "filename": "Bạn Trai - The Boyfriend - 2024 - 1080p - Vietsub - Tập 10",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250522/TZQkBjvM/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250522/TZQkBjvM/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "713364",
+      "season": null,
+      "vote_average": 6.2,
+      "vote_count": 51
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-06-13T00:08:37.000Z"
+    },
+    "modified": {
+      "time": "2025-06-13T01:34:33.000Z"
+    },
+    "_id": "78e3b5ca79e1d3688b73c13540b5c261",
+    "name": "Chú Hề Trong Cánh Đồng Ngô",
+    "slug": "chu-he-trong-canh-dong-ngo",
+    "origin_name": "Clown in a Cornfield",
+    "content": "Quinn và cha cô chuyển từ Philadelphia đến thị trấn Kettle Springs. Sau vụ cháy nhà máy Baypen Corn Syrup, thị trấn bị chia rẽ sâu sắc. Mọi thứ trở nên hỗn độn khi Frendo, chú hề thị trấn, bắt đầu giết người trẻ tuổi để “thanh lọc” cộng đồng",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250613-1/7928f4d50a533a6fc252afeac1caea77.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250613-1/35f10a66d6c7368902968c8a0b7ff60a.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=8tBSOKyyZT8",
+    "time": "96 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Katie Douglas",
+      "Aaron Abrams",
+      "Carson MacCormac",
+      "Cassandra Potenza",
+      "Verity Marks",
+      "Bradley Sawatzky",
+      "Vincent Muller",
+      "Ayo Solanke",
+      "Daina Leitold",
+      "Dylan McEwan",
+      "Kaitlyn Bacon",
+      "Alexandre Martin Deakin",
+      "Will Sasso",
+      "Kevin Durand",
+      "Jean-Jacques Javier"
+    ],
+    "director": [
+      "Eli Craig"
+    ],
+    "category": [
+      {
+        "id": "4db8d7d4b9873981e3eeb76d02997d58",
+        "name": "Kinh Dị",
+        "slug": "kinh-di"
+      },
+      {
+        "id": "2fb53017b3be83cd754a08adab3e916c",
+        "name": "Bí Ẩn",
+        "slug": "bi-an"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Chú Hề Trong Cánh Đồng Ngô - Clown in a Cornfield - 2025 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250613/QaanFvuB/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250613/QaanFvuB/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

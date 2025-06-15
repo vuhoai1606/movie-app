@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2023-10-18T20:44:57.000Z"
+    },
+    "modified": {
+      "time": "2023-10-21T02:38:55.000Z"
+    },
+    "_id": "6e5025ccc7d638ae4e724da8938450a6",
+    "name": "Ma Trận: Hồi Sinh",
+    "slug": "ma-tran-hoi-sinh",
+    "origin_name": "The Matrix Resurrections",
+    "content": "Bị quấy rầy bởi những ký ức kỳ lạ, cuộc đời của Neo có một bước ngoặt bất ngờ khi anh thấy mình trở lại bên trong Ma trận.",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20231018-1/c31ed4b0ab4359f80f36c85b9842729a.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20231018-1/2ec7cb259dcaf1bfc7e3808ee4237946.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "",
+    "time": "147 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2021,
+    "view": 1,
+    "actor": [
+      "Keanu Reeves",
+      "Carrie-Anne Moss",
+      "Yahya Abdul-Mateen II",
+      "Jonathan Groff",
+      "Jessica Henwick",
+      "Neil Patrick Harris",
+      "Jada Pinkett Smith",
+      "Priyanka Chopra Jonas",
+      "Christina Ricci",
+      "Lambert Wilson",
+      "Andrew Lewis Caldwell",
+      "Toby Onwumere",
+      "Max Riemelt",
+      "Joshua Grothe",
+      "Bria"
+    ],
+    "director": [
+      "Lana Wachowski"
+    ],
+    "category": [
+      {
+        "id": "0bcf4077916678de9b48c89221fcf8ae",
+        "name": "Khoa Học",
+        "slug": "khoa-hoc"
+      },
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "445d337b5cd5de476f99333df6b0c2a7",
+        "name": "Canada",
+        "slug": "canada"
+      },
+      {
+        "id": "24a5bf049aeef94ab79bad1f73f16b92",
+        "name": "Đức",
+        "slug": "duc"
+      },
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Ma Trận: Hồi Sinh - The Matrix Resurrections - 2021 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20231020/udk35YzG/index.m3u8",
+          "link_m3u8": "https://s1.phim1280.tv/20231020/udk35YzG/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

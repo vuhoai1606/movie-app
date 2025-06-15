@@ -1,0 +1,138 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "tv",
+      "id": "231280",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-06-01T15:11:51.000Z"
+    },
+    "modified": {
+      "time": "2025-06-15T09:37:02.000Z"
+    },
+    "_id": "eac626340b6ff134e38fc5b7b1f14974",
+    "name": "Kiện Tướng",
+    "slug": "kien-tuong",
+    "origin_name": "Good Boy",
+    "content": "“Good Boy” kể về câu chuyện của Yoon Dong Joo (Park Bo Gum thủ vai), một cựu vận động viên quyền anh quốc gia từng giành huy chương vàng quốc tế, trở thành cảnh sát thông qua một chương trình tuyển dụng đặc biệt dành cho các vận động viên giành huy chương. Cuộc sống của cậu rẽ sang một hướng đầy kịch tính khi Min Joo Young (Oh Jung Se) - một nhân vật phản diện tàn nhẫn cai trị thành phố Inseong từ trong bóng tối - xuất hiện như kẻ thù cuối cùng. Với sự hiện diện nham hiểm và sự khinh thường luật pháp, trật tự, ngay cả hình bóng của hắn cũng khiến người ta rùng mình.",
+    "type": "series",
+    "status": "ongoing",
+    "poster_url": "https://phimimg.com/upload/vod/20250601-1/f3bbb466904489c0eb475f89bf6e3166.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250601-1/89524a3a031fbfa2f29eb7b81cff489f.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=6Tu3WPJIDVk",
+    "time": "90 phút/tập",
+    "episode_current": "Tập 5",
+    "episode_total": "16",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Park Bo-gum",
+      "Kim So-hyun",
+      "Oh Jung-se",
+      "Lee Sang-yi",
+      "Heo Sung-tae",
+      "Tae Won-seok",
+      "Seo Hyun-chul",
+      "Jeong Man-sik",
+      "Park Cheol-min",
+      "Seo Jeong-yeon",
+      "Seo Jae-hee",
+      "Kang Gil-woo",
+      "Choi Woo-jin"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
+    "category": [
+      {
+        "id": "7a035ac0b37f5854f0f6979260899c90",
+        "name": "Hình Sự",
+        "slug": "hinh-su"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      },
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      },
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 1",
+          "slug": "tap-1",
+          "filename": "Kiện Tướng - Good Boy - 2025 - 1080p - Vietsub - Tập 1",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250601/02to9eBm/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250601/02to9eBm/index.m3u8"
+        },
+        {
+          "name": "Tập 2",
+          "slug": "tap-2",
+          "filename": "Kiện Tướng - Good Boy - 2025 - 1080p - Vietsub - Tập 2",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250602/pyRXtCTm/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250602/pyRXtCTm/index.m3u8"
+        },
+        {
+          "name": "Tập 3",
+          "slug": "tap-3",
+          "filename": "Kiện Tướng - Good Boy - 2025 - 1080p - Vietsub - Tập 3",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250608/jtBHCXnV/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250608/jtBHCXnV/index.m3u8"
+        },
+        {
+          "name": "Tập 4",
+          "slug": "tap-4",
+          "filename": "Kiện Tướng - Good Boy - 2025 - 1080p - Vietsub - Tập 4",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250609/4RuWtg5G/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250609/4RuWtg5G/index.m3u8"
+        },
+        {
+          "name": "Tập 5",
+          "slug": "tap-5",
+          "filename": "Kiện Tướng - Good Boy - 2025 - 1080p - Vietsub - Tập 5",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250615/wd2g67RF/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250615/wd2g67RF/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

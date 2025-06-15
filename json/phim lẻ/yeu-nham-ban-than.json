@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "1389618",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-05-23T11:07:21.000Z"
+    },
+    "modified": {
+      "time": "2025-05-23T11:16:53.000Z"
+    },
+    "_id": "108fe115000c147427da50c2b0c9ce31",
+    "name": "Yêu Nhầm Bạn Thân",
+    "slug": "yeu-nham-ban-than",
+    "origin_name": "Friendzone",
+    "content": "“Yêu Nhầm Bạn Thân” nói về tình cảm giữa hai người bạn thân khác giới là An (Kaity Nguyễn) và Toàn (Trần Ngọc Vàng) đã luôn bỏ lỡ những cơ hội để ở bên nhau. Bối cảnh phim trải dài khắp Việt Nam từ Bắc vào Nam với những thắng cảnh và địa danh nổi tiếng.",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250523-1/9e90d5e45abb30f79b340985a2b16f14.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250523-1/4064be55ed57ee223fe4e40fb4f38bd2.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": true,
+    "trailer_url": "https://www.youtube.com/watch?v=d7iXT864C4w",
+    "time": "116 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Kaity Nguyễn",
+      "Trần Ngọc Vàng",
+      "Thanh Sơn",
+      "Phương Nam",
+      "Quốc Khánh",
+      "Sơn Huy",
+      "Đông My",
+      "Emma Lê",
+      "Stephen Vũ",
+      "Trương Minh Cường",
+      "Quyên Qui"
+    ],
+    "director": [
+      "Diệp Thế Vinh",
+      "Nguyễn Quang Dũng"
+    ],
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "f6ce1ae8b39af9d38d653b8a0890adb8",
+        "name": "Việt Nam",
+        "slug": "viet-nam"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Yêu Nhầm Bạn Thân - Friendzone - 2025 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250523/vYMKayNo/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250523/vYMKayNo/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2023-10-18T00:51:14.000Z"
+    },
+    "modified": {
+      "time": "2023-12-09T00:45:17.000Z"
+    },
+    "_id": "aebf7782a3d445f43cf30ee2c0d84dee",
+    "name": "Người Dơi",
+    "slug": "nguoi-doi-2022",
+    "origin_name": "The Batman",
+    "content": "Tay giết người hàng loạt – The Ridder (Paul Dano) sẽ là kẻ thù nguy hiểm hàng đầu của Batman ở phần phim sắp tới. Tên xấu xa này bị cảnh sát James Gordon và đồng đội bắt giữ đã lâu. Thế nhưng, hóa ra việc nhốt gã sau song sắt chỉ khiến The Ridder phiền phức hơn với Đấng. Penguin (Colin Farrell) thể hiện là kẻ thủ ác thích trực tiếp tạo ra hỗn loạn, muốn đối đầu Batman hơn là chỉ đạo gián tiếp theo cách The Ridder thực hiện.",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20231018-1/6ca3f656e2cb638938dacd7ba3a3865d.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20231018-1/e58014050ad6ce7fbed8c3932b615073.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "",
+    "time": "177 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2022,
+    "view": 1,
+    "actor": [
+      "Robert Pattinson",
+      "Zoë Kravitz",
+      "Paul Dano",
+      "Jeffrey Wright",
+      "John Turturro",
+      "Peter Sarsgaard",
+      "Andy Serkis",
+      "Colin Farrell",
+      "Jayme Lawson",
+      "Gil Perez-Abraham",
+      "Peter McDonald",
+      "Con O&#039;Neill",
+      "Alex Ferns",
+      "Rupert Penry-Jones",
+      "Charlie Carver",
+      "Max Carver",
+      "Barry Keog"
+    ],
+    "director": [
+      "Matt Reeves"
+    ],
+    "category": [
+      {
+        "id": "7a035ac0b37f5854f0f6979260899c90",
+        "name": "Hình Sự",
+        "slug": "hinh-su"
+      },
+      {
+        "id": "2fb53017b3be83cd754a08adab3e916c",
+        "name": "Bí Ẩn",
+        "slug": "bi-an"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Người Dơi - The Batman - 2022 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231019/CjXwU6fp/index.m3u8",
+          "link_m3u8": "https://s2.phim1280.tv/20231019/CjXwU6fp/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

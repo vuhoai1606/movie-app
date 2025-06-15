@@ -1,0 +1,174 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "tv",
+      "id": "100088",
+      "season": 2,
+      "vote_average": 8.6,
+      "vote_count": 5980
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-04-14T20:36:29.000Z"
+    },
+    "modified": {
+      "time": "2025-05-26T16:28:44.000Z"
+    },
+    "_id": "4299f209da83da82b711f1d631cc607b",
+    "name": "Những Người Còn Sót Lại (Phần 2)",
+    "slug": "nhung-nguoi-con-sot-lai-phan-2",
+    "origin_name": "The Last Of Us (Season 2)",
+    "content": "Được chuyển thể từ tựa game nổi tiếng cùng tên, The Last of Us là câu chuyện về thế giới giữa đại dịch xác sống. Đó là nơi mà Joel và Ellie, một cặp đôi được kết nối với nhau nhờ sự khắc nghiệt của thế giới, buộc phải dựa vào nhau giữa những hoàn cảnh tàn khốc trong chuyến hành trình xuyên nước Mỹ thời hậu đại dịch.",
+    "type": "series",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250414-1/b2edede3c50da05dbc8793c05f83fd78.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250522-1/5fb850dee2fc6f9e2bc2806068ef746d.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=GGbbtV_Gpzw",
+    "time": "55 phút/tập",
+    "episode_current": "Tập 7",
+    "episode_total": "7",
+    "quality": "FHD",
+    "lang": "Vietsub + Thuyết Minh",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Pedro Pascal",
+      "Bella Ramsey",
+      "Gabriel Luna",
+      "Isabela Merced",
+      "Young Mazino"
+    ],
+    "director": [
+      "Craig Mazin"
+    ],
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Những Người Còn Sót Lại (Phần 2) - The Last Of Us (Season 2) - 2025 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250522/R4rJu3eN/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250522/R4rJu3eN/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Những Người Còn Sót Lại (Phần 2) - The Last Of Us (Season 2) - 2025 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250522/sipphMXP/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250522/sipphMXP/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Những Người Còn Sót Lại (Phần 2) - The Last Of Us (Season 2) - 2025 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250522/M7UVkNQE/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250522/M7UVkNQE/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Những Người Còn Sót Lại (Phần 2) - The Last Of Us (Season 2) - 2025 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250522/QiS79PSW/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250522/QiS79PSW/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Những Người Còn Sót Lại (Phần 2) - The Last Of Us (Season 2) - 2025 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250522/7YTsFQl5/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250522/7YTsFQl5/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Những Người Còn Sót Lại (Phần 2) - The Last Of Us (Season 2) - 2025 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250522/CGGT84CK/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250522/CGGT84CK/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Những Người Còn Sót Lại (Phần 2) - The Last Of Us (Season 2) - 2025 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250526/eUMiYqv9/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250526/eUMiYqv9/index.m3u8"
+        }
+      ]
+    },
+    {
+      "server_name": "#Hà Nội (Thuyết Minh)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Những Người Còn Sót Lại (Phần 2) - The Last Of Us (Season 2) - 2025 - 1080p - Thuyết Minh - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250522/zCWXACUH/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250522/zCWXACUH/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Những Người Còn Sót Lại (Phần 2) - The Last Of Us (Season 2) - 2025 - 1080p - Thuyết Minh - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250522/jqeDOLbc/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250522/jqeDOLbc/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Những Người Còn Sót Lại (Phần 2) - The Last Of Us (Season 2) - 2025 - 1080p - Thuyết Minh - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250522/aykgukK3/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250522/aykgukK3/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Những Người Còn Sót Lại (Phần 2) - The Last Of Us (Season 2) - 2025 - 1080p - Thuyết Minh - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250522/3TQyohaJ/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250522/3TQyohaJ/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Những Người Còn Sót Lại (Phần 2) - The Last Of Us (Season 2) - 2025 - 1080p - Thuyết Minh - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250522/WWipjhtJ/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250522/WWipjhtJ/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

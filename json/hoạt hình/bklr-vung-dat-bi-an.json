@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2023-11-11T01:41:52.000Z"
+    },
+    "modified": {
+      "time": "2023-11-20T21:31:58.000Z"
+    },
+    "_id": "33b9c7c18ec3acc3747c41e70e9bb3d6",
+    "name": "Bí Kíp Luyện Rồng: Vùng Đất Bí Ẩn",
+    "slug": "bi-kip-luyen-rong-vung-dat-bi-an",
+    "origin_name": "How to Train Your Dragon: The Hidden World",
+    "content": "Bí kíp luyện rồng: Vùng đất bí ẩn là một bộ phim hoạt hình máy tính 3D hành động giả tưởng Mĩ năm 2019, được sản xuất bởi DreamWorks Animation và phát hành bởi Universal Pictures dựa trên cuốn sách cùng tên. Đây là phần tiếp theo của Bí kíp luyện rồng 2 và là phần cuối cùng trong loạt phim Bí kíp luyện rồng. &nbsp;Một năm sau khi bảo vệ Berk khỏi Drago, Răng Sún và Nấc Cụt cùng với những bạn của họ, tiếp tục giải cứu các con rồng bị bắt để đưa chúng trở lại Berk và tạo cho các loài rồng một môi trường nhộn nhịp. Nhưng nỗ lực giải cứu những con rồng đã khiến hòn đảo trở nên quá đông với một lượng lớn số rồng. Để xử lí tình trạng quá tải này, Nấc Cụt quyết định tìm một &quot;vùng đất bí ẩn&quot;, nơi trú ngụ mà cậu thấy là an toàn nhất cho các con rồng mà người cha quá cố, Stoick đã nói với cậu. Trong khi đó, một con Fury trắng bị giam cầm bởi các lãnh chúa, sau nó được trao lại cho thợ săn rồng khét tiếng Grimmel làm mồi nhử.",
+    "type": "hoathinh",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20231111-1/02923098eeec71ed7bf921ca961d9ecd.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20231111-1/a7d405784bf8745c0223d7047cbe8a9f.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "",
+    "time": "104 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2019,
+    "view": 1,
+    "actor": [
+      "Jay Baruchel",
+      "America Ferrera",
+      "F. Murray Abraham",
+      "Cate Blanchett",
+      "Gerard Butler",
+      "Craig Ferguson",
+      "Jonah Hill",
+      "Christopher Mintz-Plasse",
+      "Kristen Wiig",
+      "Kit Harington",
+      "Justin Rupple",
+      "Robin Atkin Downes",
+      "Kieron Elliott",
+      "Julia Emelin",
+      "Gideon Emery",
+      "Ashley Jense"
+    ],
+    "director": [
+      "Dean DeBlois"
+    ],
+    "category": [
+      {
+        "id": "d9983d88d8929b1d9f767884e2999e27",
+        "name": "Hoạt Hình",
+        "slug": "hoat-hinh"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Bí Kíp Luyện Rồng: Vùng Đất Bí Ẩn - How to Train Your Dragon: The Hidden World - 2019 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s1.phim1280.tv/20231120/NZoACc1k/index.m3u8",
+          "link_m3u8": "https://s1.phim1280.tv/20231120/NZoACc1k/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "tv",
+      "id": "90462",
+      "season": 3,
+      "vote_average": 7.838,
+      "vote_count": 4091
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-06-08T09:22:34.000Z"
+    },
+    "modified": {
+      "time": "2025-06-08T15:46:56.000Z"
+    },
+    "_id": "3d5857912169d96359cb6c7df01db19d",
+    "name": "Ma Búp Bê Chucky (Phần 2)",
+    "slug": "ma-bup-be-chucky-phan-2",
+    "origin_name": "Chucky (Season 2)",
+    "content": "Sau khi một búp bê Chucky cổ bất ngờ xuất hiện tại một buổi bán đồ sân vườn ở vùng ngoại ô, một thị trấn yên bình kiểu Mỹ nhanh chóng rơi vào hỗn loạn. Hàng loạt vụ án mạng kinh hoàng diễn ra, dần vạch trần những giả dối và bí mật thầm kín mà thị trấn tưởng chừng hoàn hảo này đang che giấu. Trong lúc đó, những kẻ thù và đồng minh từ quá khứ của Chucky lần lượt xuất hiện, đe dọa phơi bày sự thật đằng sau những vụ giết người — và cả nguồn gốc đen tối chưa từng được tiết lộ của con búp bê quỷ ám này.",
+    "type": "series",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250608-1/03e24b2662884239cd34f056675a068f.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250608-1/86592de633a77b2b3feceec9d2a86355.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=Qk3X_Ku8DfY",
+    "time": "43 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "episode_total": "8",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2022,
+    "view": 0,
+    "actor": [
+      "Zackary Arthur",
+      "Brad Dourif",
+      "Björgvin Arnarson",
+      "Alyvia Alyn Lind",
+      "Devon Sawa"
+    ],
+    "director": [
+      "Don Mancini"
+    ],
+    "category": [
+      {
+        "id": "7a035ac0b37f5854f0f6979260899c90",
+        "name": "Hình Sự",
+        "slug": "hinh-su"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      },
+      {
+        "id": "2fb53017b3be83cd754a08adab3e916c",
+        "name": "Bí Ẩn",
+        "slug": "bi-an"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Ma Búp Bê Chucky (Phần 2) - Chucky (Season 2) - 2022 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/T4cHds29/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/T4cHds29/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Ma Búp Bê Chucky (Phần 2) - Chucky (Season 2) - 2022 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/0G2w7qoH/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/0G2w7qoH/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Ma Búp Bê Chucky (Phần 2) - Chucky (Season 2) - 2022 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/mycQn7YT/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/mycQn7YT/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Ma Búp Bê Chucky (Phần 2) - Chucky (Season 2) - 2022 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/DvRfe0kl/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/DvRfe0kl/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Ma Búp Bê Chucky (Phần 2) - Chucky (Season 2) - 2022 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/BoZccoQX/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/BoZccoQX/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Ma Búp Bê Chucky (Phần 2) - Chucky (Season 2) - 2022 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/OSDoVkka/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/OSDoVkka/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Ma Búp Bê Chucky (Phần 2) - Chucky (Season 2) - 2022 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/hL0gzMWj/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/hL0gzMWj/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Ma Búp Bê Chucky (Phần 2) - Chucky (Season 2) - 2022 - 1080p - Vietsub - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/b4OVanpk/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/b4OVanpk/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

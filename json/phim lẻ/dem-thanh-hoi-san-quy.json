@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "793387",
+      "season": null,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-05-20T15:52:12.000Z"
+    },
+    "modified": {
+      "time": "2025-06-09T02:13:52.000Z"
+    },
+    "_id": "75f4b15635b6362df162948b296aaef7",
+    "name": "Đêm Thánh: Đội Săn Quỷ",
+    "slug": "dem-thanh-doi-san-quy",
+    "origin_name": "Holy Night: Demon Hunters",
+    "content": "Đêm Thánh Đội Săn Quỷ là bộ phim Hàn mới nhất với sự góp mặt của ông chú Ma Dong Seok. Seoul chìm trong hỗn loạn khi một mạng lưới tội phạm tôn thờ ma quỷ xuất hiện. Trong sự cầu xin tuyệt vọng để được cứu rỗi, cảnh sát buộc phải nhờ đến ‘Đêm Thánh’, một bộ ba thợ săn quỷ được trang bị sức mạnh siêu nhiên. Liệu ‘Đêm Thánh’ có thể chinh phục ách thống trị của quỷ dữ và khôi phục trật tự cho thành phố?",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250520-1/eb74244b20279a883f5100975835c6a1.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250520-1/75069cdc357e5a2e40224c65e85be55d.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": true,
+    "trailer_url": "https://www.youtube.com/watch?v=0l35oxLd1UI",
+    "time": "92 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "FHD",
+    "lang": "Vietsub + Thuyết Minh",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Don Lee",
+      "Seohyun",
+      "David Lee",
+      "Gyeong Su-jin",
+      "Jung Ji-so",
+      "Lee Da-il",
+      "Cha Woo-jin",
+      "Kim Do-gun",
+      "Jeon Ik-ryoung"
+    ],
+    "director": [
+      "Lim Dae-hee"
+    ],
+    "category": [
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "68564911f00849030f9c9c144ea1b931",
+        "name": "Viễn Tưởng",
+        "slug": "vien-tuong"
+      },
+      {
+        "id": "4db8d7d4b9873981e3eeb76d02997d58",
+        "name": "Kinh Dị",
+        "slug": "kinh-di"
+      },
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Đêm Thánh: Đội Săn Quỷ - Holy Night: Demon Hunters - 2025 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250530/5yjbXUKI/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250530/5yjbXUKI/index.m3u8"
+        }
+      ]
+    },
+    {
+      "server_name": "#Hà Nội (Thuyết Minh)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Đêm Thánh: Đội Săn Quỷ - Holy Night: Demon Hunters - 2025 - 1080p - Thuyết Minh - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250608/yqAu5Kee/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250608/yqAu5Kee/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

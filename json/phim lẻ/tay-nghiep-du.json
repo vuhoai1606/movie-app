@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "1087891",
+      "season": null,
+      "vote_average": 6.687,
+      "vote_count": 294
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-06-11T09:35:36.000Z"
+    },
+    "modified": {
+      "time": "2025-06-11T09:35:36.000Z"
+    },
+    "_id": "a9f0aa050b0e0029545e79138ec549f8",
+    "name": "Tay Nghiệp Dư",
+    "slug": "tay-nghiep-du",
+    "origin_name": "The Amateur",
+    "content": "Theo chân một nhà mật mã học của CIA, người đã tống tiền cơ quan của anh ta để thả anh ta ra truy đuổi một nhóm khủng bố đã giết vợ anh ta ở London.",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250611-1/79a036ecc9a8aa63dbd0043bd1d7b942.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250611-1/1e047c434e0adec363f3911973437b4e.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": true,
+    "trailer_url": "https://www.youtube.com/watch?v=DCWcK4c-F8Q",
+    "time": "123 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Rami Malek",
+      "Holt McCallany",
+      "Danny Sapani",
+      "Rachel Brosnahan",
+      "Michael Stuhlbarg",
+      "Laurence Fishburne",
+      "Julianne Nicholson",
+      "Caitríona Balfe",
+      "Jon Bernthal",
+      "Adrian Martinez",
+      "Evan Milton",
+      "Nick Mills",
+      "Tiffany Gray",
+      "Kate Sumpter",
+      "David Mills",
+      "Anita Anand",
+      "Ryan Chil"
+    ],
+    "director": [
+      "James Hawes"
+    ],
+    "category": [
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Tay Nghiệp Dư - The Amateur - 2025 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250611/O4v3NL1I/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250611/O4v3NL1I/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

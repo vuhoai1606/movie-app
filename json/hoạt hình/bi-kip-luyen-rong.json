@@ -1,0 +1,106 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2023-10-19T20:53:58.000Z"
+    },
+    "modified": {
+      "time": "2023-10-21T23:17:46.000Z"
+    },
+    "_id": "cc7e2b878868cbae992d1fb743995d8f",
+    "name": "Bí Kíp Luyện Rồng",
+    "slug": "bi-kip-luyen-rong",
+    "origin_name": "How to Train Your Dragon",
+    "content": "Thiếu niên nhút nhát Hiccup phải chứng minh với bố và làng của mình rằng cậu vẫn có thể là chiến binh Viking – ngay cả khi cậu muốn kết bạn với rồng hơn là giết rồng.",
+    "type": "hoathinh",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20231019-1/8841cab97904f0f76bd3bf665fb317a8.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20231019-1/c815b55f2c31e82b9a7557a095490a92.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "",
+    "time": "98 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2010,
+    "view": 1,
+    "actor": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Craig Ferguson",
+      "America Ferrera",
+      "Jonah Hill",
+      "Christopher Mintz-Plasse",
+      "T.J. Miller",
+      "Kristen Wiig",
+      "David Tennant",
+      "Ashley Jensen",
+      "Robin Atkin Downes",
+      "Philip McGrade",
+      "Kieron Elliott"
+    ],
+    "director": [
+      "Chris Sanders",
+      "Dean DeBlois"
+    ],
+    "category": [
+      {
+        "id": "68564911f00849030f9c9c144ea1b931",
+        "name": "Viễn Tưởng",
+        "slug": "vien-tuong"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      },
+      {
+        "id": "d9983d88d8929b1d9f767884e2999e27",
+        "name": "Hoạt Hình",
+        "slug": "hoat-hinh"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "af5c50bf625c1da71838678a5cf37189",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Bí Kíp Luyện Rồng - How to Train Your Dragon - 2010 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231021/yfEIr7ai/index.m3u8",
+          "link_m3u8": "https://s2.phim1280.tv/20231021/yfEIr7ai/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

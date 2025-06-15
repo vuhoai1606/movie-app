@@ -1,0 +1,111 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "1322597",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-06-11T18:40:57.000Z"
+    },
+    "modified": {
+      "time": "2025-06-11T18:40:57.000Z"
+    },
+    "_id": "7f169e8ba2553717e869803364c15ee7",
+    "name": "Va Chạm",
+    "slug": "va-cham-2025",
+    "origin_name": "Clash",
+    "content": "Anh giao hàng Lưu Dũng Cảm, người được mệnh danh là “Bolt của Sa Bình Bá”, đã tập hợp 30 anh em cùng chí hướng, lập nên một đội bóng bầu dục nghiệp dư mang tên “Công Nhân Bến Cảng”. Từ những kẻ bị coi thường, họ từng bước lội ngược dòng, vượt qua mọi khó khăn và cuối cùng đánh bại đội mạnh Liên Quân Quốc Tế Dũng Sĩ, xuất sắc giành chức vô địch Cúp Vĩnh Hằng.",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250611-1/9926a88386c84320dd71ff169330b688.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250611-1/614147b96e968698717c26f73b267cff.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=p1c1UDE0nmA",
+    "time": "125 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Li Jiuxiao",
+      "Wang Qianyuan",
+      "Pan Binlong",
+      "Yang Haoyu",
+      "Liang Chao",
+      "Shang Yuxian",
+      "Zuo Ye",
+      "Pierre Bourdaud",
+      "Su Jinyuan",
+      "Liang Jing",
+      "Li Xueqin",
+      "Liang Long",
+      "Matt William Knowles",
+      "Dai Lele",
+      "Hu Xiaoguang",
+      "Jiang Shimeng",
+      "Zhang Baiqiao",
+      "Ye Tian",
+      "Wang Tianfang"
+    ],
+    "director": [
+      "Jiang Jia-Chen"
+    ],
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      },
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Va Chạm - Clash - 2025 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250611/lGaA9Fvp/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250611/lGaA9Fvp/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

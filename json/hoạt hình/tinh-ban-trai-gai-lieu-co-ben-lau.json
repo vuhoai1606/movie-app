@@ -1,0 +1,163 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "tv",
+      "id": "217407",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-04-11T09:54:24.000Z"
+    },
+    "modified": {
+      "time": "2025-06-14T19:24:32.000Z"
+    },
+    "_id": "96bc82d11851fad841c56bac26d777a6",
+    "name": "Tình Bạn Trai-Gái Liệu Có Bền Lâu?",
+    "slug": "tinh-ban-traigai-lieu-co-ben-lau",
+    "origin_name": "Can a Boy-Girl Friendship Survive?",
+    "content": "Tại một thị trấn nhỏ, Yuuki - chàng trai yêu cây cỏ và Rina - cô gái sôi nổi chưa biết đến tình yêu, đã thề nguyện làm ban thân suốt đời. Bước vào cấp ba, ranh giới giữa tình bạn và tình yêu bắt đầu trở nên mơ hồ khi những rung động đầu đời xuất hiện. Những hiểu lầm, sự ghen tuông và những lời trêu chọc từ bạn bè liên tục thử thách mối quan hệ tưởng chừng bền vững của họ. Liệu Yuuki và Rina có thể tiếp tục tình bạn khi đối mặt với những cảm xúc phức tạp, hay một trong hai người sẽ vượt qua giới hạn?",
+    "type": "hoathinh",
+    "status": "ongoing",
+    "poster_url": "https://phimimg.com/upload/vod/20250411-1/39cb8c263dc1a9b425e80bb8f92057d1.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250411-1/908c484b45f41d05f959bd5aa876362b.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=YLswpaA5ON0",
+    "time": "24 phút/tập",
+    "episode_current": "Tập 11",
+    "episode_total": "12",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Kikunosuke Toya",
+      "Sayumi Suzushiro",
+      "Yuka Nukui",
+      "Ko Bonkobara",
+      "Masaaki Mizunaka",
+      "Hisako Kanemoto"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "d4097fbffa8f7149a61281437171eb83",
+        "name": "Nhật Bản",
+        "slug": "nhat-ban"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Tình Bạn Trai-Gái Liệu Có Bền Lâu? - Can a Boy-Girl Friendship Survive? - 2025 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250410/Fl1DUSKQ/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250410/Fl1DUSKQ/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Tình Bạn Trai-Gái Liệu Có Bền Lâu? - Can a Boy-Girl Friendship Survive? - 2025 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250412/kex4bY10/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250412/kex4bY10/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Tình Bạn Trai-Gái Liệu Có Bền Lâu? - Can a Boy-Girl Friendship Survive? - 2025 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250419/2pNumUI3/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250419/2pNumUI3/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Tình Bạn Trai-Gái Liệu Có Bền Lâu? - Can a Boy-Girl Friendship Survive? - 2025 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250425/NMSRXfc1/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250425/NMSRXfc1/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Tình Bạn Trai-Gái Liệu Có Bền Lâu? - Can a Boy-Girl Friendship Survive? - 2025 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250502/19EDrvHr/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250502/19EDrvHr/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Tình Bạn Trai-Gái Liệu Có Bền Lâu? - Can a Boy-Girl Friendship Survive? - 2025 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250509/nGR5XjkX/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250509/nGR5XjkX/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Tình Bạn Trai-Gái Liệu Có Bền Lâu? - Can a Boy-Girl Friendship Survive? - 2025 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250517/51miNhnr/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250517/51miNhnr/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Tình Bạn Trai-Gái Liệu Có Bền Lâu? - Can a Boy-Girl Friendship Survive? - 2025 - 1080p - Vietsub - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250523/eyIdom58/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250523/eyIdom58/index.m3u8"
+        },
+        {
+          "name": "Tập 09",
+          "slug": "tap-09",
+          "filename": "Tình Bạn Trai-Gái Liệu Có Bền Lâu? - Can a Boy-Girl Friendship Survive? - 2025 - 1080p - Vietsub - Tập 09",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250531/jLLn6t8M/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250531/jLLn6t8M/index.m3u8"
+        },
+        {
+          "name": "Tập 10",
+          "slug": "tap-10",
+          "filename": "Tình Bạn Trai-Gái Liệu Có Bền Lâu? - Can a Boy-Girl Friendship Survive? - 2025 - 1080p - Vietsub - Tập 10",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/ZjGmZrXg/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/ZjGmZrXg/index.m3u8"
+        },
+        {
+          "name": "Tập 11",
+          "slug": "tap-11",
+          "filename": "Tình Bạn Trai-Gái Liệu Có Bền Lâu? - Can a Boy-Girl Friendship Survive? - 2025 - 1080p - Vietsub - Tập 11",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250614/14fXRezP/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250614/14fXRezP/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

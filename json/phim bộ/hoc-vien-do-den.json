@@ -1,0 +1,248 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "tv",
+      "id": "255779",
+      "season": 1,
+      "vote_average": 6,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-05-16T08:47:40.000Z"
+    },
+    "modified": {
+      "time": "2025-05-16T08:47:40.000Z"
+    },
+    "_id": "a30b36cd9c2e0343ae527b263a7b0abb",
+    "name": "Học Viện Đỏ Đen",
+    "slug": "hoc-vien-do-den",
+    "origin_name": "Bet",
+    "content": "Tại một trường tư thục nơi cờ bạc quyết định địa vị xã hội, một học sinh mới tài năng có quá khứ bí ẩn đang khuấy động mọi chuyện và quyết tâm trả thù.",
+    "type": "series",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250516-1/a051bada065673ef180d7985b99aa964.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250516-1/b9d676bb8d72f0a44908fda4ad92d400.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=R7xl9QjtNDc",
+    "time": "37 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "episode_total": "10",
+    "quality": "FHD",
+    "lang": "Vietsub + Lồng Tiếng",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Miku Martineau",
+      "Ayo Solanke",
+      "Eve Edwards",
+      "Clara Alexandrova",
+      "Hunter Cardinal",
+      "Anwen O&#039;Driscoll",
+      "Aviva Mongillo",
+      "Ryan Sutherland"
+    ],
+    "director": [
+      "Simon Barry"
+    ],
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "2fb53017b3be83cd754a08adab3e916c",
+        "name": "Bí Ẩn",
+        "slug": "bi-an"
+      },
+      {
+        "id": "7a035ac0b37f5854f0f6979260899c90",
+        "name": "Hình Sự",
+        "slug": "hinh-su"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "445d337b5cd5de476f99333df6b0c2a7",
+        "name": "Canada",
+        "slug": "canada"
+      },
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250515/Pk1ff36S/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250515/Pk1ff36S/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/y9MCVkSI/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/y9MCVkSI/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250515/Ywn2G0aA/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250515/Ywn2G0aA/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/rYWCgnaa/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/rYWCgnaa/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/pKbrliKd/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/pKbrliKd/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250515/u4320sZ3/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250515/u4320sZ3/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/HpdjxCah/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/HpdjxCah/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Vietsub - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250515/fzo8qEI9/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250515/fzo8qEI9/index.m3u8"
+        },
+        {
+          "name": "Tập 09",
+          "slug": "tap-09",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Vietsub - Tập 09",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/5snZ6gtA/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/5snZ6gtA/index.m3u8"
+        },
+        {
+          "name": "Tập 10",
+          "slug": "tap-10",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Vietsub - Tập 10",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/XbeyAhAP/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/XbeyAhAP/index.m3u8"
+        }
+      ]
+    },
+    {
+      "server_name": "#Hà Nội (Lồng Tiếng)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Lồng Tiếng - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250515/vx6b5Ai6/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250515/vx6b5Ai6/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Lồng Tiếng - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/et5qoZY8/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/et5qoZY8/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Lồng Tiếng - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/vHbYuDGy/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/vHbYuDGy/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Lồng Tiếng - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/xf2cjvSi/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/xf2cjvSi/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Lồng Tiếng - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/EJJ4uDa7/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/EJJ4uDa7/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Lồng Tiếng - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/9fIgoXOc/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/9fIgoXOc/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Lồng Tiếng - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/G4Ug5kxg/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/G4Ug5kxg/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Lồng Tiếng - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/3kF72uQ5/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/3kF72uQ5/index.m3u8"
+        },
+        {
+          "name": "Tập 09",
+          "slug": "tap-09",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Lồng Tiếng - Tập 09",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250516/PbPjp4G8/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250516/PbPjp4G8/index.m3u8"
+        },
+        {
+          "name": "Tập 10",
+          "slug": "tap-10",
+          "filename": "Học Viện Đỏ Đen - Bet - 2025 - 1080p - Lồng Tiếng - Tập 10",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250515/LkhNRiEK/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250515/LkhNRiEK/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

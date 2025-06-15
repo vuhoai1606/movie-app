@@ -1,0 +1,176 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "tv",
+      "id": "88046",
+      "season": 3,
+      "vote_average": 8.4,
+      "vote_count": 530
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-04-11T08:47:53.000Z"
+    },
+    "modified": {
+      "time": "2025-06-14T19:17:29.000Z"
+    },
+    "_id": "11ca04268b41f39203efd92cd1f8b108",
+    "name": "Biệt Đội Lính Cứu Hỏa (Phần 3)",
+    "slug": "biet-doi-linh-cuu-hoa-phan-3",
+    "origin_name": "Fire Force (Season 3)",
+    "content": "Năm 198 của kỷ nguyên Thái Dương ở Tokyo, các đội cứu hỏa đặc thù chiến đấu chống lại Hiện tượng nhân thể bộc hỏa, khi cơ thể con người đột nhiên biến thành quái vật lửa được gọi Viêm Nhân. Shinra Kusakabe là một chàng trai trẻ bị gắn biệt danh là Dấu chân ác quỷ, vì chân của cậu ấy có thể bốc cháy theo ý muốn. Sau khi cậu gia nhập Đội lính cứu hỏa đặc thù số 8, cậu đã cùng những đồng đội trong đội ngũ chiến đấu chống lại các Viêm Nhân với sức mạnh lính cứu hỏa thế hệ thứ 3 của mình. Khi tiếp xúc với kẻ tạo ra Viêm Nhân, Shinra bắt đầu biết được bí mật của cuộc hỏa hoạn đã gây ra cái chết thương vong cho cả gia đình cậu 12 năm trước...",
+    "type": "hoathinh",
+    "status": "ongoing",
+    "poster_url": "https://phimimg.com/upload/vod/20250411-1/26e2e526501396c2b3c4758761eb926a.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250411-1/f628491ea49b3da90473487260e1e9fb.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=JOlRi9YFA5c",
+    "time": "24 phút/tập",
+    "episode_current": "Tập 11",
+    "episode_total": "24",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Gakuto Kajiwara",
+      "Yusuke Kobayashi",
+      "Saeko Kamijo",
+      "Mao Ichimichi",
+      "Kazuya Nakai",
+      "Kenichi Suzumura",
+      "Aoi Yuki",
+      "Daisuke Sakaguchi",
+      "Taku Yashiro"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
+    "category": [
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      },
+      {
+        "id": "0bcf4077916678de9b48c89221fcf8ae",
+        "name": "Khoa Học",
+        "slug": "khoa-hoc"
+      },
+      {
+        "id": "68564911f00849030f9c9c144ea1b931",
+        "name": "Viễn Tưởng",
+        "slug": "vien-tuong"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "d4097fbffa8f7149a61281437171eb83",
+        "name": "Nhật Bản",
+        "slug": "nhat-ban"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Biệt Đội Lính Cứu Hỏa (Phần 3) - Fire Force (Season 3) - 2025 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250410/omFWUXPN/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250410/omFWUXPN/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Biệt Đội Lính Cứu Hỏa (Phần 3) - Fire Force (Season 3) - 2025 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250420/VyzyfzeO/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250420/VyzyfzeO/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Biệt Đội Lính Cứu Hỏa (Phần 3) - Fire Force (Season 3) - 2025 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250420/A9NBaYZH/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250420/A9NBaYZH/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Biệt Đội Lính Cứu Hỏa (Phần 3) - Fire Force (Season 3) - 2025 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250426/QVlyk8B7/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250426/QVlyk8B7/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Biệt Đội Lính Cứu Hỏa (Phần 3) - Fire Force (Season 3) - 2025 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250503/D1kFUQl4/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250503/D1kFUQl4/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Biệt Đội Lính Cứu Hỏa (Phần 3) - Fire Force (Season 3) - 2025 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250510/sKAm3hBg/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250510/sKAm3hBg/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Biệt Đội Lính Cứu Hỏa (Phần 3) - Fire Force (Season 3) - 2025 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250524/UDelxQ8n/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250524/UDelxQ8n/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Biệt Đội Lính Cứu Hỏa (Phần 3) - Fire Force (Season 3) - 2025 - 1080p - Vietsub - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250524/wNDrSnvD/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250524/wNDrSnvD/index.m3u8"
+        },
+        {
+          "name": "Tập 09",
+          "slug": "tap-09",
+          "filename": "Biệt Đội Lính Cứu Hỏa (Phần 3) - Fire Force (Season 3) - 2025 - 1080p - Vietsub - Tập 09",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250531/MUHu75r0/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250531/MUHu75r0/index.m3u8"
+        },
+        {
+          "name": "Tập 10",
+          "slug": "tap-10",
+          "filename": "Biệt Đội Lính Cứu Hỏa (Phần 3) - Fire Force (Season 3) - 2025 - 1080p - Vietsub - Tập 10",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/4GNbt7zy/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/4GNbt7zy/index.m3u8"
+        },
+        {
+          "name": "Tập 11",
+          "slug": "tap-11",
+          "filename": "Biệt Đội Lính Cứu Hỏa (Phần 3) - Fire Force (Season 3) - 2025 - 1080p - Vietsub - Tập 11",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250614/rlwmstGG/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250614/rlwmstGG/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

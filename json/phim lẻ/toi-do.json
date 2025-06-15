@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "1233413",
+      "season": null,
+      "vote_average": 7.566,
+      "vote_count": 752
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-05-23T10:58:09.000Z"
+    },
+    "modified": {
+      "time": "2025-05-23T11:06:02.000Z"
+    },
+    "_id": "99e54f99035fe00a5b02e468dedeb7fe",
+    "name": "Tội Đồ",
+    "slug": "toi-do",
+    "origin_name": "Sinners",
+    "content": "Cố gắng bỏ lại cuộc sống đầy rắc rối của mình, hai anh em sinh đôi trở về quê hương để bắt đầu lại, chỉ để phát hiện ra rằng một cái ác thậm chí còn lớn hơn đang chờ đợi để chào đón họ trở lại.",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250523-1/5f533e666aec0d3bf6d24a01d8ea768b.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250523-1/4ed523ad53195fa971abc84a9c3a9177.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": true,
+    "trailer_url": "https://www.youtube.com/watch?v=O98jSd24lmA",
+    "time": "138 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "CAM",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Michael B. Jordan",
+      "Miles Caton",
+      "Hailee Steinfeld",
+      "Wunmi Mosaku",
+      "Jack O&#039;Connell",
+      "Delroy Lindo",
+      "Omar Benson Miller",
+      "Jayme Lawson",
+      "Li Jun Li",
+      "Yao",
+      "Lola Kirke",
+      "Peter Dreimanis",
+      "Buddy Guy",
+      "Saul Williams",
+      "Andrene Ward-Hammond",
+      "Tenaj L. Jackson",
+      "David Maldo"
+    ],
+    "director": [
+      "Ryan Coogler"
+    ],
+    "category": [
+      {
+        "id": "4db8d7d4b9873981e3eeb76d02997d58",
+        "name": "Kinh Dị",
+        "slug": "kinh-di"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Tội Đồ - Sinners - 2025 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250523/KtTmKCJ7/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250523/KtTmKCJ7/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

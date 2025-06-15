@@ -1,0 +1,230 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "tv",
+      "id": "247718",
+      "season": 1,
+      "vote_average": 8.4,
+      "vote_count": 31
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-04-07T01:25:42.000Z"
+    },
+    "modified": {
+      "time": "2025-06-14T18:06:10.000Z"
+    },
+    "_id": "386bb25138d5c75aaf86b0a6d4d8f772",
+    "name": "Lãnh Địa Tử Chiến",
+    "slug": "lanh-dia-tu-chien",
+    "origin_name": "MobLand",
+    "content": "Hai gia tộc tội phạm khét tiếng ở London, nhà Harrigan và nhà Stevenson, lao vào cuộc chiến sống còn để giành quyền kiểm soát thế giới ngầm. Trong khi bạo lực leo thang, Harry Da Souza – một &quot;fixer&quot; đầy mưu mô – bị cuốn vào cuộc chiến quyền lực tàn khốc này. Khi các thế lực đối đầu, lòng trung thành bị thử thách và mạng sống trở thành thứ để đặt cược. Trong thế giới mà ranh giới thiện - ác bị xóa nhòa, chỉ có một quy tắc duy nhất: Gia đình là trên hết.",
+    "type": "series",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250407-1/ddc83aefe923808865af0b344d91e7ff.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250407-1/cecfcb01fd54714a38c7e1d48b999a16.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=qKGgw7Ob5f4",
+    "time": "59 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "episode_total": "10",
+    "quality": "FHD",
+    "lang": "Vietsub + Thuyết Minh",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Tom Hardy",
+      "Pierce Brosnan",
+      "Paddy Considine",
+      "Joanne Froggatt",
+      "Lara Pulver",
+      "Anson Boon",
+      "Jasmine Jobson",
+      "Mandeep Dhillon",
+      "Daniel Betts",
+      "Helen Mirren"
+    ],
+    "director": [
+      "Ronan Bennett"
+    ],
+    "category": [
+      {
+        "id": "7a035ac0b37f5854f0f6979260899c90",
+        "name": "Hình Sự",
+        "slug": "hinh-su"
+      },
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250414/9NwUdUKg/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250414/9NwUdUKg/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250414/9a1H04hS/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250414/9a1H04hS/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250414/TR0NSOW1/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250414/TR0NSOW1/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250422/h9O2dQ3x/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250422/h9O2dQ3x/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250505/wIZcLBUI/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250505/wIZcLBUI/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250505/tEE3PtCA/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250505/tEE3PtCA/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250515/1uD6ygTe/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250515/1uD6ygTe/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Vietsub - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250519/eThfqWVF/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250519/eThfqWVF/index.m3u8"
+        },
+        {
+          "name": "Tập 09",
+          "slug": "tap-09",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Vietsub - Tập 09",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250525/PR7bYMwa/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250525/PR7bYMwa/index.m3u8"
+        },
+        {
+          "name": "Tập 10",
+          "slug": "tap-10",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Vietsub - Tập 10",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250602/7q1gk1pp/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250602/7q1gk1pp/index.m3u8"
+        }
+      ]
+    },
+    {
+      "server_name": "#Hà Nội (Thuyết Minh)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Thuyết Minh - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250414/jr4pAllF/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250414/jr4pAllF/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Thuyết Minh - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250414/objC9EPB/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250414/objC9EPB/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Thuyết Minh - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250422/XZZvICGd/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250422/XZZvICGd/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Thuyết Minh - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250422/ijAxytAY/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250422/ijAxytAY/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Thuyết Minh - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20250505/BgaY7mUQ/index.m3u8",
+          "link_m3u8": "https://s5.phim1280.tv/20250505/BgaY7mUQ/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Thuyết Minh - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250515/TJM9QvVy/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250515/TJM9QvVy/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Thuyết Minh - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20250515/Wrrb6WjE/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20250515/Wrrb6WjE/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Thuyết Minh - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250525/AiwqsVcW/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250525/AiwqsVcW/index.m3u8"
+        },
+        {
+          "name": "Tập 09",
+          "slug": "tap-09",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Thuyết Minh - Tập 09",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250614/sz44wNcv/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250614/sz44wNcv/index.m3u8"
+        },
+        {
+          "name": "Tập 10",
+          "slug": "tap-10",
+          "filename": "Lãnh Địa Tử Chiến - MobLand - 2025 - 1080p - Thuyết Minh - Tập 10",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250614/tp9o1lZ6/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250614/tp9o1lZ6/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

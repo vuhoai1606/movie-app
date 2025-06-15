@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "1290205",
+      "season": null,
+      "vote_average": 5.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-06-13T07:13:10.000Z"
+    },
+    "modified": {
+      "time": "2025-06-13T07:13:10.000Z"
+    },
+    "_id": "7d59940f728eff0da111dd90376b439e",
+    "name": "Khoảng Cách Giữa Đôi Ta",
+    "slug": "khoang-cach-giua-doi-ta",
+    "origin_name": "Flat Girls",
+    "content": "Trong khu chung cư của cảnh sát – nơi có hàng trăm gia đình cảnh sát cùng sinh sống – có Jane, một cô gái đến từ gia đình của một sĩ quan cấp cao. Mẹ cô là “bà trùm” cho vay nặng lãi trong khu chung cư, khiến ai cũng phải nể sợ. Trong khi đó, Ann là cô gái có cha đã hy sinh khi đang làm nhiệm vụ, khiến cô phải giúp mẹ làm việc kiếm sống và chăm sóc ba em nhỏ. Jane và Ann luôn chia sẻ mọi khoảnh khắc với nhau, lúc nào cũng kề vai sát cánh. Sau giờ tan học, họ thường cùng nhau chơi cầu lông ở sân giữa khu nhà, cùng với người bạn thân thiết là Nice. Jane luôn mong muốn được sống mãi trong khu chung cư này, với Ann luôn ở bên cạnh. Thế nhưng, mọi chuyện bắt đầu thay đổi khi Tong – một chàng cảnh sát trẻ mới chuyển đến – xuất hiện. Sự có mặt của anh không chỉ làm lung lay tình bạn giữa Jane và Ann, mà còn buộc cả hai phải đối mặt với sự thật cay đắng: Gia đình của Ann – một gia đình cảnh sát không còn người cha – có thể không còn nhiều thời gian để tiếp tục sống trong khu chung cư này.",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250613-1/123cd6396460f6c99a39b164231ed66d.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250613-1/712ffd81bf3307ace859e2ffe1e1018c.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": true,
+    "trailer_url": "https://www.youtube.com/watch?v=Kc4bDKN1CWE",
+    "time": "130 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Fatima Dechawaleekul",
+      "Kirana Pipityakorn",
+      "Pakorn Chatborirak",
+      "Wachirakon Raksasuwan",
+      "Namfon Pakdee",
+      "Suraphan Chaopaknam",
+      "Kornpassorn Ratanameathanont",
+      "Neennara Boonnithipaisit",
+      "Alina M. Chang",
+      "Pananyakorn Limvilairattana",
+      "Punyanan Limvilairattana",
+      "Phichai"
+    ],
+    "director": [
+      "Jirassaya Wongsutin"
+    ],
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "cefbf1640a17bad1e13c2f6f2a811a2d",
+        "name": "Thái Lan",
+        "slug": "thai-lan"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Khoảng Cách Giữa Đôi Ta - Flat Girls - 2025 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250612/71UDiVpG/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250612/71UDiVpG/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

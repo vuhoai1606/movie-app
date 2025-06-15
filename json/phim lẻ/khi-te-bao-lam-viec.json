@@ -1,0 +1,116 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "1303162",
+      "season": null,
+      "vote_average": 7.5,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-06-14T09:35:53.000Z"
+    },
+    "modified": {
+      "time": "2025-06-14T09:35:53.000Z"
+    },
+    "_id": "11f9b53e8e2fafa24156bde7ba8b82d2",
+    "name": "Khi Tế Bào Làm Việc",
+    "slug": "khi-te-bao-lam-viec",
+    "origin_name": "Cells At Work!",
+    "content": "Một hồng cầu non nớt và một bạch cầu kiên cường cùng hợp sức bảo vệ cơ thể chủ thể trước sự xâm nhập của vi trùng, mầm bệnh và nhiều mối đe dọa khác.",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250614-1/07dbdc5b30f8b3dd4d33fe9ade8c0d32.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250614-1/6399e128ac23241849ca43cc0a71eec6.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=VJ6So9rQ8mA",
+    "time": "110 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2024,
+    "view": 0,
+    "actor": [
+      "Mei Nagano",
+      "Takeru Satoh",
+      "Mana Ashida",
+      "Sadawo Abe",
+      "Koji Yamamoto",
+      "Riisa Naka",
+      "Wakana Matsumoto",
+      "Maika Pugh",
+      "Shota Sometani",
+      "Kyoko Fukada",
+      "Rihito Itagaki",
+      "Ryo Kato",
+      "Seishirou Katou",
+      "Ainosuke Kataoka",
+      "Shinya Niiro",
+      "Maju Ozawa",
+      "Fukase",
+      "Haru Iwakawa",
+      "Ken Mits"
+    ],
+    "director": [
+      "Hideki Takeuchi"
+    ],
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      },
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      },
+      {
+        "id": "68564911f00849030f9c9c144ea1b931",
+        "name": "Viễn Tưởng",
+        "slug": "vien-tuong"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "d4097fbffa8f7149a61281437171eb83",
+        "name": "Nhật Bản",
+        "slug": "nhat-ban"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Khi Tế Bào Làm Việc - Cells At Work! - 2024 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250614/P21VHruk/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250614/P21VHruk/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

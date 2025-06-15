@@ -1,0 +1,177 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-06-08T08:39:54.000Z"
+    },
+    "modified": {
+      "time": "2025-06-15T09:34:19.000Z"
+    },
+    "_id": "c66c332fe7b7aa1ee44ed34ba8a31ab2",
+    "name": "Dịu Dàng Màu Nắng",
+    "slug": "diu-dang-mau-nang",
+    "origin_name": "Gentle Sunlight",
+    "content": "Bộ phim không chỉ là câu chuyện về tình yêu và cuộc sống của mỗi cá nhân, mà còn là hành trình xây dựng hạnh phúc, vượt qua khó khăn và gắn kết giữa những con người xa lạ trong một xóm trọ công nhân. Ở đó, cuộc sống mưu sinh và những toan tính không làm con người ta quay lưng, lạnh nhạt với nhau, ngược lại, họ càng xích lại gần nhau và lan toả năng lượng tích cực, lòng tốt và niềm tin.",
+    "type": "series",
+    "status": "ongoing",
+    "poster_url": "https://phimimg.com/upload/vod/20250608-1/8ae7ac92bdd0f747c9a0f520727605e1.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250608-1/2ee9512306a6f1894651ad00337e3dec.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=hmjzYG1dgpI",
+    "time": "28 phút/tập",
+    "episode_current": "Tập 10",
+    "episode_total": "48",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Duy Hưng",
+      "Lương Thu Trang",
+      "Nguyễn Ngọc Huyền",
+      "B Trần",
+      "Lan Hương",
+      "Nguyệt Hằng",
+      "Cù Thị Trà",
+      "Mai Huê",
+      "Lưu Duy Khánh",
+      "Thái Dương",
+      "Quốc Anh",
+      "Bình An",
+      "Phương Hạnh",
+      "Đỗ Kỷ",
+      "Bùi Minh Phương",
+      "Thanh Hoa",
+      "Minh Cúc",
+      "Xuân Hồng",
+      "Tuyết Trinh",
+      "Khôi Nguyên",
+      "Hoàng Huy",
+      "Hồng"
+    ],
+    "director": [
+      "Bùi Quốc Việt"
+    ],
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "f6ce1ae8b39af9d38d653b8a0890adb8",
+        "name": "Việt Nam",
+        "slug": "viet-nam"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Dịu Dàng Màu Nắng - Gentle Sunlight - 2025 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250608/6RcOK0Ey/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250608/6RcOK0Ey/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Dịu Dàng Màu Nắng - Gentle Sunlight - 2025 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250608/uAgdvM8V/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250608/uAgdvM8V/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Dịu Dàng Màu Nắng - Gentle Sunlight - 2025 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250608/h9U442eU/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250608/h9U442eU/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Dịu Dàng Màu Nắng - Gentle Sunlight - 2025 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250608/Xcsm52wa/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250608/Xcsm52wa/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Dịu Dàng Màu Nắng - Gentle Sunlight - 2025 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250608/LtdUSXmq/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250608/LtdUSXmq/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Dịu Dàng Màu Nắng - Gentle Sunlight - 2025 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250611/vZj87Pml/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250611/vZj87Pml/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Dịu Dàng Màu Nắng - Gentle Sunlight - 2025 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250611/yHULPO3c/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250611/yHULPO3c/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Dịu Dàng Màu Nắng - Gentle Sunlight - 2025 - 1080p - Vietsub - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250612/YKaI8qWF/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250612/YKaI8qWF/index.m3u8"
+        },
+        {
+          "name": "Tập 09",
+          "slug": "tap-09",
+          "filename": "Dịu Dàng Màu Nắng - Gentle Sunlight - 2025 - 1080p - Vietsub - Tập 09",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250613/4sbwZTYh/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250613/4sbwZTYh/index.m3u8"
+        },
+        {
+          "name": "Tập 10",
+          "slug": "tap-10",
+          "filename": "Dịu Dàng Màu Nắng - Gentle Sunlight - 2025 - 1080p - Vietsub - Tập 10",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250615/YXYQ4llu/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250615/YXYQ4llu/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

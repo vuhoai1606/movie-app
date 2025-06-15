@@ -1,0 +1,116 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "11544",
+      "season": null,
+      "vote_average": 7.545,
+      "vote_count": 6537
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2023-11-23T20:50:53.000Z"
+    },
+    "modified": {
+      "time": "2025-05-30T04:01:48.000Z"
+    },
+    "_id": "4de1ed74128a96a8b5900186486aacba",
+    "name": "Lilo Và Stitch",
+    "slug": "lilo-va-stitch",
+    "origin_name": "Lilo & Stitch",
+    "content": "Lilo &amp; Stitch là một phim hoạt hình của Walt Disney Pictures phát hành năm 2002. Phim kể về các chuyến phiêu lưu đi tìm các thí nghiệm thất lạc của Lilo và chú chó Stitch và là một trong số những bộ phim hoạt hình nổi bật nhất của Disney. Chris Sanders và Dean DeBlois đã cùng nhau viết kịch bản và đạo diễn bộ phim. Lilo &amp; Stitch đã nhận được đề cử cho Giải Oscar cho phim hoạt hình hay nhất năm 2002, giải thưởng sau đó đã thuộc về Vùng đất linh hồn (Bản Tiếng Anh của Spirited Away cũng được phát hành bởi Walt Disney Pictures).Các phần tiếp theo của bộ phim, Stitch! The Movie, Lilo &amp; Stitch 2: Stitch Has a Glitch và Leroy &amp; Stitch đã được sản xuất để phát hành thẳng dưới dạng đĩa hình. Một loạt phim truyền hình, Lilo &amp; Stitch: The Series cũng được sản xuất cho ...",
+    "type": "hoathinh",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250530-1/fd94904db8149c1868f474d57275f111.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250530-1/fc747a38b27a79dbfd829da48ac69f3b.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=wAtaSKQ4-T0",
+    "time": "85 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2002,
+    "view": 0,
+    "actor": [
+      "Daveigh Chase",
+      "Chris Sanders",
+      "Tia Carrere",
+      "David Ogden Stiers",
+      "Kevin McDonald",
+      "Ving Rhames",
+      "Zoe Caldwell",
+      "Jason Scott Lee",
+      "Kevin Michael Richardson",
+      "Susan Hegarty",
+      "Amy Hill",
+      "Steve Alterman",
+      "Emily Anderson",
+      "Jack Angel",
+      "Bill Asing",
+      "Erica Beck",
+      "Bob Bergen",
+      "S"
+    ],
+    "director": [
+      "Chris Sanders",
+      "Dean DeBlois"
+    ],
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "0c853f6238e0997ee318b646bb1978bc",
+        "name": "Trẻ Em",
+        "slug": "tre-em"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Lilo Và Stitch - Lilo & Stitch - 2002 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250529/9Fawhr1x/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250529/9Fawhr1x/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

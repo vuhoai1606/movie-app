@@ -1,0 +1,258 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "tv",
+      "id": "292805",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-06-07T20:51:25.000Z"
+    },
+    "modified": {
+      "time": "2025-06-15T12:26:39.000Z"
+    },
+    "_id": "31073475fc4fe0f27c6b876472f0888e",
+    "name": "Bách Lạc Môn",
+    "slug": "bach-lac-mon",
+    "origin_name": "Paramount",
+    "content": "Bạch Lạc mất đi người thân, lại bị hôn phu hào môn là Tiền Mục Thần vứt bỏ. Sống lại từ địa ngục, cô hóa thân thành ca kĩ Bách Lạc Môn, thực hiện kế hoạch báo thù của mình một cách gọn ghẽ. Lần này, cô muốn biến tất cả mọi người thành vật trong tay của mình.",
+    "type": "series",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250607-1/80b959041571aa85ec9b98771382d8e3.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250607-1/7b6d978000ca12a814c7933ba21e07c0.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=Hb2RJgL-mzM",
+    "time": "13 phút/tập",
+    "episode_current": "Hoàn Tất (24/24)",
+    "episode_total": "24",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Viên Tử Minh",
+      "Kiều Tịnh Văn",
+      "Lý Thạc",
+      "Từ Tử Tuyền",
+      "An Đông",
+      "Lưu Mỹ Luân",
+      "Trịnh Vũ Thừa",
+      "Trì Tiểu Đồng",
+      "Vương Vũ Tranh",
+      "Triệu Khoa"
+    ],
+    "director": [
+      "Trương Hải Tiêu"
+    ],
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Tập 01",
+          "slug": "tap-01",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 01",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/QNJoCUCe/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/QNJoCUCe/index.m3u8"
+        },
+        {
+          "name": "Tập 02",
+          "slug": "tap-02",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 02",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/PfTfdMjX/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/PfTfdMjX/index.m3u8"
+        },
+        {
+          "name": "Tập 03",
+          "slug": "tap-03",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 03",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/AeuxRewt/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/AeuxRewt/index.m3u8"
+        },
+        {
+          "name": "Tập 04",
+          "slug": "tap-04",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 04",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/I0WXQ8Dl/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/I0WXQ8Dl/index.m3u8"
+        },
+        {
+          "name": "Tập 05",
+          "slug": "tap-05",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 05",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/a048oPlv/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/a048oPlv/index.m3u8"
+        },
+        {
+          "name": "Tập 06",
+          "slug": "tap-06",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 06",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/a5BHUTuT/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/a5BHUTuT/index.m3u8"
+        },
+        {
+          "name": "Tập 07",
+          "slug": "tap-07",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 07",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/h51DkV2J/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/h51DkV2J/index.m3u8"
+        },
+        {
+          "name": "Tập 08",
+          "slug": "tap-08",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 08",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250607/Q9EyuhPO/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250607/Q9EyuhPO/index.m3u8"
+        },
+        {
+          "name": "Tập 09",
+          "slug": "tap-09",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 09",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250608/NCVHAnhK/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250608/NCVHAnhK/index.m3u8"
+        },
+        {
+          "name": "Tập 10",
+          "slug": "tap-10",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 10",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250608/9jtQqDve/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250608/9jtQqDve/index.m3u8"
+        },
+        {
+          "name": "Tập 11",
+          "slug": "tap-11",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 11",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250609/r0zlMFGU/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250609/r0zlMFGU/index.m3u8"
+        },
+        {
+          "name": "Tập 12",
+          "slug": "tap-12",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 12",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250609/lpC3QiZu/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250609/lpC3QiZu/index.m3u8"
+        },
+        {
+          "name": "Tập 13",
+          "slug": "tap-13",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 13",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250610/kd7dpe8H/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250610/kd7dpe8H/index.m3u8"
+        },
+        {
+          "name": "Tập 14",
+          "slug": "tap-14",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 14",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250610/lEaYOxvN/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250610/lEaYOxvN/index.m3u8"
+        },
+        {
+          "name": "Tập 15",
+          "slug": "tap-15",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 15",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250611/La0s0slp/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250611/La0s0slp/index.m3u8"
+        },
+        {
+          "name": "Tập 16",
+          "slug": "tap-16",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 16",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250611/d2oVBHIM/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250611/d2oVBHIM/index.m3u8"
+        },
+        {
+          "name": "Tập 17",
+          "slug": "tap-17",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 17",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250612/7ggbmA5w/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250612/7ggbmA5w/index.m3u8"
+        },
+        {
+          "name": "Tập 18",
+          "slug": "tap-18",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 18",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250612/v8wUlmy6/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250612/v8wUlmy6/index.m3u8"
+        },
+        {
+          "name": "Tập 19",
+          "slug": "tap-19",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 19",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250614/Jxlnhuf9/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250614/Jxlnhuf9/index.m3u8"
+        },
+        {
+          "name": "Tập 20",
+          "slug": "tap-20",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 20",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250614/AQ1DYcpF/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250614/AQ1DYcpF/index.m3u8"
+        },
+        {
+          "name": "Tập 21",
+          "slug": "tap-21",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 21",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250614/VInKYRu5/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250614/VInKYRu5/index.m3u8"
+        },
+        {
+          "name": "Tập 22",
+          "slug": "tap-22",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 22",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250614/AMUVpfyM/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250614/AMUVpfyM/index.m3u8"
+        },
+        {
+          "name": "Tập 23",
+          "slug": "tap-23",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 23",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250615/6yMr4Pzn/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250615/6yMr4Pzn/index.m3u8"
+        },
+        {
+          "name": "Tập 24",
+          "slug": "tap-24",
+          "filename": "Bách Lạc Môn - Paramount - 2025 - 1080p - Vietsub - Tập 24",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250615/zYwJGKcy/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250615/zYwJGKcy/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

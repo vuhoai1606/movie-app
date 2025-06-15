@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": null,
+      "id": null,
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2023-09-26T15:04:10.000Z"
+    },
+    "modified": {
+      "time": "2023-09-28T11:02:37.000Z"
+    },
+    "_id": "dd45045f8c68db9f54e70c67048d32e8",
+    "name": "Thợ Săn Cổ Vật",
+    "slug": "tho-san-co-vat",
+    "origin_name": "Uncharted",
+    "content": "Thợ Săn Cổ Vật xoay quanh nhân vật chính là chàng trai trẻ yêu phiêu lưu mạo hiểm Nathan Drake (Tom Holland). Với sự trợ giúp của huấn luyện viên Victor Sullivan (Mark Wahlberg), Nathan dấn thân vào cuộc hành trình khám phá những di tích cổ xưa, sử dụng vũ khí và kỹ năng leo trèo để đối phó với kẻ thù và những cạm bẫy trên hành trình. Dọc đường đi, Nathan gặp gỡ nhiều thợ săn kho báu khác, trong đó có cô nàng nóng bỏng Chloe Frazer (Sophia Taylor Ali).",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20230926-1/9fd12ecb8a43850ff2e5b785a0c1ae72.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20230926-1/be9b88427f1745af49ad15bf54642b9e.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "",
+    "time": "116 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2022,
+    "view": 1,
+    "actor": [
+      "Tom Holland",
+      "Mark Wahlberg",
+      "Sophia Ali",
+      "Tati Gabrielle",
+      "Antonio Banderas",
+      "Steven Waddington",
+      "Rudy Pankow",
+      "Tiernan Jones",
+      "Pingi Moli",
+      "Jesús Evita"
+    ],
+    "director": [
+      "Ruben Fleischer"
+    ],
+    "category": [
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "af5c50bf625c1da71838678a5cf37189",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Thợ Săn Cổ Vật - Uncharted - 2022 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20230928/HM6ItqTU/index.m3u8",
+          "link_m3u8": "https://s2.phim1280.tv/20230928/HM6ItqTU/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

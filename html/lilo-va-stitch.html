@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>moVie</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/style-movie.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="logo">
+                <a href="index.html"><h1>moVie</h1></a>
+            </div>
+            <div class="navBar">
+                <div class="nav-items">
+                    <ul class="list">
+                        <li><a href="index.html#movies">Phim lẻ</a></li>
+                        <li><a href="index.html#tv-series">Phim bộ</a></li>
+                        <li><a href="index.html#hoat-hinh">Hoạt hình</a></li>
+                        <li><a href="index.html#genres">Thể loại <i class="fas fa-chevron-down"></i></a></li>
+                    </ul>
+                    <ul class="user">
+                        <li><i class="fas fa-user"></i></li>
+                    </ul>
+                    <div class="close-btn">
+                        <i id="close" class="fas fa-times"></i>
+                    </div>
+                </div>
+                <div class="open-btn">
+                    <i id="open" class="fas fa-bars"></i>
+                </div>
+            </div>
+        </header>
+
+        <div class="movie-detail">
+            <div class="movie-poster">
+                <div class="poster-image">
+                    <img src="https://phimimg.com/upload/vod/20250530-1/fd94904db8149c1868f474d57275f111.jpg" alt="Lilo Và Stitch">
+                    <div class="poster-buttons">
+                        <a href="https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250529/9Fawhr1x/index.m3u8" class="poster-watch-btn">Xem Phim</a>
+                    </div>
+                </div>
+            </div>
+            <div class="movie-info">
+                <h1 class="movie-title">Lilo Và Stitch</h1>
+                <p class="sub-title">Lilo & Stitch</p>
+                <table class="info-table">
+                    <thead>
+                        <tr>
+                            <th class="info-head">Class</th>
+                            <th class="info-head">Properties</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Tình trạng</td>
+                            <td>Full</td>
+                        </tr>
+                        <tr>
+                            <td>Số tập</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Thời lượng</td>
+                            <td>85 phút</td>
+                        </tr>
+                        <tr>
+                            <td>Năm phát hành</td>
+                            <td>2002</td>
+                        </tr>
+                        <tr>
+                            <td>Chất lượng</td>
+                            <td>FHD</td>
+                        </tr>
+                        <tr>
+                            <td>Ngôn ngữ</td>
+                            <td>Vietsub</td>
+                        </tr>
+                        <tr>
+                            <td>Đạo diễn</td>
+                            <td>Chris Sanders, Dean DeBlois</td>
+                        </tr>
+                        <tr>
+                            <td>Diễn viên</td>
+                            <td>Amy Hill, Bill Asing, Bob Bergen, Chris Sanders, Daveigh Chase, David Ogden Stiers, Emily Anderson, Erica Beck, Jack Angel, Jason Scott Lee, Kevin McDonald, Kevin Michael Richardson, S. Steve Alterman, Susan Hegarty, Tia Carrere, Ving Rhames, Zoe Caldwell</td>
+                        </tr>
+                        <tr>
+                            <td>Thể loại</td>
+                            <td>Gia Đình, Hài Hước, Tâm Lý, Chính Kịch, Trẻ Em</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="movie-description">
+            <div class="section-header">
+                <span>Nội dung phim</span>
+                <i class="fas fa-chevron-down"></i>
+            </div>
+            <p class="content-detail">Lilo & Stitch là một phim hoạt hình của Walt Disney Pictures phát hành năm 2002. Phim kể về các chuyến phiêu lưu đi tìm các thí nghiệm thất lạc của Lilo và chú chó Stitch và là một trong số những bộ phim hoạt hình nổi bật nhất của Disney. Chris Sanders và Dean DeBlois đã cùng nhau viết kịch bản và đạo diễn bộ phim. Lilo & Stitch đã nhận được đề cử cho Giải Oscar cho phim hoạt hình hay nhất năm 2002, giải thưởng sau đó đã thuộc về Vùng đất linh hồn (Bản Tiếng Anh của Spirited Away cũng được phát hành bởi Walt Disney Pictures). Các phần tiếp theo của bộ phim, Stitch! The Movie, Lilo & Stitch 2: Stitch Has a Glitch và Leroy & Stitch đã được sản xuất để phát hành thẳng dưới dạng đĩa hình. Một loạt phim truyền hình, Lilo & Stitch: The Series cũng được sản xuất cho...</p>
+        </div>
+
+        <div class="movie-actions">
+            <div class="section-header">
+                <span>Xem phim</span>
+                <i class="fas fa-chevron-down"></i>
+            </div>
+            <div>
+                <div class="action-info">
+                    SERVER: <span>#Hà Nội (Vietsub)</span>
+                </div>
+                <div class="action-links">
+                    <a href="https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250529/9Fawhr1x/index.m3u8" title="Xem Full" rel="noopener noreferrer" class="poster-watch-btn">Full</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2024-07-11T20:26:06.000Z"
+    },
+    "modified": {
+      "time": "2024-10-04T21:05:19.000Z"
+    },
+    "_id": "04c0e78a0e5ff3259fd1fc0239065a3a",
+    "name": "Thần Sấm 4: Tình Yêu Và Sấm Sét",
+    "slug": "than-sam-4-tinh-yeu-va-sam-set",
+    "origin_name": "Thor 4: Love And Thunder",
+    "content": "Câu chuyện xoay quanh cô nàng tình cũ của anh chàng Thor là Jane Foster, cô là người phàm trần và hiện đang phát hiện bản thân mắc phải căn bệnh ung thư. Thor vì để cứu Jane Foster nên đã truyền sức mạnh của mình qua cho cô và từ đó Jane Foster dần sứng đáng và có thể cầm được cây búa, còn Thor thì mất hết sức mạnh và truyền lại danh hiệu thần sấm cho Jane Foster. Sau một vài lần sử dụng sức mạnh thần sấm đã giúp cho Jane Foster chữa trị được căn bệnh của mình.",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20240711-1/be42cbe0b908894c7a3f2b55dada89a2.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20240711-1/3e6880ed26f0cbb293052aaf3d471feb.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": true,
+    "trailer_url": "https://www.youtube.com/watch?v=KHPrDP0F5_o",
+    "time": "115 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2022,
+    "view": 1,
+    "actor": [
+      "Natalie Portman",
+      "Christian Bale",
+      "Karen Gillan"
+    ],
+    "director": [
+      "Taika Waititi"
+    ],
+    "category": [
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "68564911f00849030f9c9c144ea1b931",
+        "name": "Viễn Tưởng",
+        "slug": "vien-tuong"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Thần Sấm 4: Tình Yêu Và Sấm Sét - Thor 4: Love And Thunder - 2022 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20241004/taiDepGM/index.m3u8",
+          "link_m3u8": "https://s4.phim1280.tv/20241004/taiDepGM/index.m3u8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "msg": "",
+  "movie": {
+    "tmdb": {
+      "type": "movie",
+      "id": "1483870",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null
+    },
+    "created": {
+      "time": "2025-06-13T07:17:54.000Z"
+    },
+    "modified": {
+      "time": "2025-06-13T07:17:54.000Z"
+    },
+    "_id": "ba307c1fd60c35533dcf424e1befabff",
+    "name": "Lạp Độc Phong Bạo",
+    "slug": "lap-doc-phong-bao",
+    "origin_name": "Drug Bust Storm",
+    "content": "Nơi biên giới, các trùm ma túy lộng hành ngang ngược, cảnh sát phòng chống ma túy phải bước vào cuộc chiến sống còn! Trong chiến dịch vây bắt tội phạm ma túy, phó đội trưởng Tiêu Nhược Lan không may rơi vào bẫy, sống chết chưa rõ. Đúng lúc đó, một “người thay thế” mang diện mạo giống hệt cô đã âm thầm trà trộn vào lực lượng cảnh sát. Tên trùm ma túy Trần Cường đã âm mưu từ lâu, chuẩn bị tiến hành một phi vụ buôn bán ma túy với quy mô lớn hơn nữa. Cuộc đối đầu giữa Tiêu Nhược Lan thật và giả, những màn đấu đá ngầm trong nội bộ bọn buôn ma túy, cùng những pha đấu súng nghẹt thở trong tuyệt cảnh! Khi sự thật dần được hé lộ, ai mới là người chiến thắng cuối cùng?",
+    "type": "single",
+    "status": "completed",
+    "poster_url": "https://phimimg.com/upload/vod/20250613-1/7c1ed4049696aa28bf249adafc338e6b.jpg",
+    "thumb_url": "https://phimimg.com/upload/vod/20250613-1/d5aab275c3077a18edb1ed22e8c58803.jpg",
+    "is_copyright": false,
+    "sub_docquyen": false,
+    "chieurap": false,
+    "trailer_url": "https://www.youtube.com/watch?v=MZJj0ukGtpQ",
+    "time": "96 phút",
+    "episode_current": "Full",
+    "episode_total": "1",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "notify": "",
+    "showtimes": "",
+    "year": 2025,
+    "view": 0,
+    "actor": [
+      "Zhang Dong",
+      "Huang Haibing",
+      "Waise Lee",
+      "Wang Hui",
+      "Xiaoxue Chen",
+      "Zi Fuer"
+    ],
+    "director": [
+      "Yuan Guangan"
+    ],
+    "category": [
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "7a035ac0b37f5854f0f6979260899c90",
+        "name": "Hình Sự",
+        "slug": "hinh-su"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "server_name": "#Hà Nội (Vietsub)",
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Lạp Độc Phong Bạo - Drug Bust Storm - 2025 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250613/G2GoiXB3/index.m3u8",
+          "link_m3u8": "https://s6.kkphimplayer6.com/20250613/G2GoiXB3/index.m3u8"
+        }
+      ]
+    }
+  ]
+}
